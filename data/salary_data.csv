@@ -1,0 +1,1501 @@
+experience,education_level,job_role,location,industry,salary
+6,Masters,Analyst,Chennai,Retail,598000.0
+10,Bachelors,Business Analyst,Kolkata,Healthcare,655000.0
+21,High School,Manager,Hyderabad,Manufacturing,1450000.0
+11,High School,Analyst,Mumbai,Finance,884000.0
+15,Bachelors,DevOps Engineer,Pune,Manufacturing,1041000.0
+24,High School,Analyst,Pune,Retail,520000.0
+8,High School,Manager,Bangalore,Education,782000.0
+25,High School,Manager,Kolkata,Education,1076000.0
+6,Masters,Analyst,Hyderabad,IT,923000.0
+1,Bachelors,DevOps Engineer,Delhi,Education,548000.0
+21,High School,Data Scientist,Delhi,Education,1011000.0
+7,Masters,Manager,Bangalore,Manufacturing,1638000.0
+7,Masters,Business Analyst,Delhi,Retail,797000.0
+12,Bachelors,Business Analyst,Bangalore,IT,1033000.0
+6,Bachelors,Software Engineer,Kolkata,Healthcare,754000.0
+2,Masters,Business Analyst,Delhi,Finance,827000.0
+8,PhD,Software Engineer,Kolkata,Finance,1209000.0
+23,Masters,Manager,Hyderabad,Healthcare,1976000.0
+2,Bachelors,Business Analyst,Pune,Manufacturing,566000.0
+22,Masters,Analyst,Bangalore,Finance,1446000.0
+9,Bachelors,Analyst,Pune,IT,769000.0
+4,Bachelors,Business Analyst,Pune,Healthcare,530000.0
+3,PhD,Analyst,Mumbai,Manufacturing,839000.0
+24,Bachelors,Manager,Kolkata,Education,1306000.0
+11,Bachelors,DevOps Engineer,Mumbai,Finance,1383000.0
+0,Bachelors,Analyst,Hyderabad,IT,506000.0
+19,Bachelors,Analyst,Pune,Manufacturing,603000.0
+4,Masters,Data Scientist,Kolkata,Healthcare,1028000.0
+21,Bachelors,Software Engineer,Kolkata,IT,1121000.0
+11,Bachelors,Data Scientist,Mumbai,IT,1567000.0
+4,Bachelors,Software Engineer,Mumbai,IT,1018000.0
+22,Bachelors,Software Engineer,Bangalore,Healthcare,1299000.0
+1,Bachelors,Data Scientist,Hyderabad,Education,658000.0
+16,Masters,Business Analyst,Kolkata,Finance,1024000.0
+5,Bachelors,Software Engineer,Bangalore,Education,818000.0
+2,Masters,Analyst,Kolkata,Healthcare,551000.0
+25,Bachelors,Analyst,Kolkata,Education,610000.0
+6,PhD,Software Engineer,Mumbai,Education,1084000.0
+24,Bachelors,DevOps Engineer,Delhi,Healthcare,1278000.0
+15,Masters,Manager,Bangalore,Finance,2348000.0
+0,High School,Manager,Chennai,Retail,605000.0
+8,Bachelors,Analyst,Kolkata,Manufacturing,550000.0
+23,Masters,Manager,Mumbai,IT,2833000.0
+17,Bachelors,Data Scientist,Delhi,Manufacturing,1257000.0
+2,Masters,Software Engineer,Kolkata,IT,839000.0
+15,Masters,Analyst,Bangalore,IT,1138000.0
+15,High School,Analyst,Hyderabad,Manufacturing,632000.0
+1,Bachelors,Software Engineer,Kolkata,IT,647000.0
+4,Bachelors,Analyst,Kolkata,Healthcare,500000.0
+13,PhD,Analyst,Kolkata,IT,1010000.0
+4,PhD,Software Engineer,Hyderabad,Retail,917000.0
+19,Bachelors,Business Analyst,Pune,IT,1034000.0
+2,Bachelors,Software Engineer,Delhi,Manufacturing,742000.0
+23,Bachelors,DevOps Engineer,Pune,Finance,1686000.0
+9,Masters,Software Engineer,Bangalore,IT,1272000.0
+9,Masters,Analyst,Delhi,IT,1098000.0
+23,PhD,Data Scientist,Pune,IT,1997000.0
+7,Masters,DevOps Engineer,Kolkata,Healthcare,1000000.0
+22,High School,Data Scientist,Delhi,Manufacturing,1065000.0
+21,Masters,DevOps Engineer,Bangalore,Education,1250000.0
+9,Masters,DevOps Engineer,Mumbai,Education,1167000.0
+11,PhD,Manager,Hyderabad,Retail,1578000.0
+19,Bachelors,Analyst,Pune,Education,577000.0
+25,High School,Business Analyst,Delhi,Retail,599000.0
+22,Bachelors,Manager,Chennai,IT,1846000.0
+1,Bachelors,DevOps Engineer,Bangalore,Retail,658000.0
+20,Masters,Business Analyst,Pune,Retail,829000.0
+11,Masters,Analyst,Chennai,Manufacturing,893000.0
+24,Bachelors,Manager,Chennai,IT,2056000.0
+3,Bachelors,DevOps Engineer,Chennai,Finance,967000.0
+9,PhD,Manager,Delhi,Education,1726000.0
+25,Bachelors,Business Analyst,Chennai,Education,674000.0
+15,High School,Data Scientist,Bangalore,Education,954000.0
+23,Masters,Analyst,Kolkata,IT,1048000.0
+0,Masters,Analyst,Chennai,Education,447000.0
+9,Bachelors,Business Analyst,Chennai,Education,574000.0
+13,High School,Analyst,Delhi,Healthcare,689000.0
+25,Masters,DevOps Engineer,Delhi,Healthcare,1465000.0
+8,Bachelors,Data Scientist,Chennai,Finance,1360000.0
+3,Bachelors,Business Analyst,Bangalore,Education,558000.0
+9,Bachelors,Analyst,Bangalore,Healthcare,642000.0
+6,Masters,DevOps Engineer,Chennai,Education,748000.0
+16,Masters,Software Engineer,Mumbai,IT,1746000.0
+19,Masters,DevOps Engineer,Chennai,Healthcare,1122000.0
+18,Bachelors,Manager,Chennai,IT,1730000.0
+13,Masters,Manager,Mumbai,Finance,2655000.0
+14,High School,Business Analyst,Mumbai,Education,679000.0
+3,PhD,Software Engineer,Pune,Retail,751000.0
+20,Bachelors,DevOps Engineer,Pune,Finance,1528000.0
+10,Masters,Manager,Bangalore,Finance,2184000.0
+25,Masters,Business Analyst,Hyderabad,Manufacturing,1100000.0
+17,Masters,Data Scientist,Chennai,Retail,1323000.0
+4,Bachelors,Business Analyst,Bangalore,Manufacturing,636000.0
+11,Masters,Analyst,Delhi,Finance,1063000.0
+18,Bachelors,Analyst,Chennai,Retail,738000.0
+19,Bachelors,Business Analyst,Pune,IT,872000.0
+6,Masters,Business Analyst,Kolkata,Manufacturing,651000.0
+24,Masters,DevOps Engineer,Chennai,Manufacturing,1120000.0
+25,High School,Business Analyst,Chennai,Retail,639000.0
+18,PhD,Data Scientist,Pune,IT,2100000.0
+16,Masters,Software Engineer,Chennai,Manufacturing,1224000.0
+24,PhD,Data Scientist,Hyderabad,Education,1623000.0
+23,Masters,Data Scientist,Kolkata,Education,999000.0
+17,Bachelors,Business Analyst,Bangalore,Education,750000.0
+21,High School,Software Engineer,Bangalore,Retail,887000.0
+12,PhD,Business Analyst,Hyderabad,Finance,1421000.0
+18,Masters,Software Engineer,Delhi,Finance,1798000.0
+14,Bachelors,Business Analyst,Delhi,IT,982000.0
+21,Masters,Software Engineer,Chennai,IT,1203000.0
+0,High School,DevOps Engineer,Kolkata,IT,499000.0
+4,PhD,DevOps Engineer,Mumbai,Retail,1247000.0
+9,Masters,Software Engineer,Chennai,Manufacturing,1037000.0
+8,Bachelors,Analyst,Chennai,Retail,553000.0
+7,Masters,Manager,Pune,Finance,1773000.0
+25,Bachelors,DevOps Engineer,Mumbai,Healthcare,1597000.0
+11,Masters,DevOps Engineer,Mumbai,IT,1559000.0
+16,Bachelors,Business Analyst,Chennai,Manufacturing,733000.0
+5,Masters,Data Scientist,Hyderabad,Finance,1535000.0
+1,Masters,Analyst,Mumbai,Finance,839000.0
+23,PhD,DevOps Engineer,Pune,Finance,1648000.0
+18,Masters,Business Analyst,Kolkata,Finance,1119000.0
+19,Bachelors,Data Scientist,Hyderabad,Retail,1250000.0
+1,Bachelors,Analyst,Mumbai,Healthcare,591000.0
+7,Masters,Software Engineer,Mumbai,Healthcare,1095000.0
+17,Masters,Analyst,Mumbai,Retail,897000.0
+21,High School,Software Engineer,Chennai,IT,934000.0
+11,Bachelors,Data Scientist,Bangalore,Manufacturing,1122000.0
+25,Masters,Software Engineer,Hyderabad,Manufacturing,1241000.0
+10,PhD,Business Analyst,Bangalore,Finance,1401000.0
+14,Bachelors,DevOps Engineer,Hyderabad,Finance,1325000.0
+22,Bachelors,Data Scientist,Chennai,Finance,1725000.0
+13,Masters,Manager,Chennai,Finance,2102000.0
+25,Bachelors,Analyst,Pune,IT,943000.0
+6,Bachelors,DevOps Engineer,Delhi,Manufacturing,944000.0
+11,Bachelors,Business Analyst,Kolkata,IT,852000.0
+12,Bachelors,Manager,Pune,Manufacturing,1423000.0
+1,Masters,Software Engineer,Kolkata,Healthcare,605000.0
+19,Masters,Data Scientist,Mumbai,Healthcare,1724000.0
+12,Bachelors,Software Engineer,Bangalore,Retail,862000.0
+10,High School,DevOps Engineer,Pune,IT,869000.0
+22,High School,Business Analyst,Kolkata,Manufacturing,646000.0
+3,High School,DevOps Engineer,Bangalore,Manufacturing,668000.0
+23,Masters,DevOps Engineer,Bangalore,Finance,2326000.0
+18,Masters,Business Analyst,Hyderabad,Finance,1476000.0
+21,Masters,Manager,Bangalore,Education,1730000.0
+25,Masters,DevOps Engineer,Chennai,Manufacturing,1377000.0
+10,PhD,Business Analyst,Mumbai,Healthcare,1187000.0
+9,Bachelors,Data Scientist,Kolkata,Finance,1134000.0
+12,Masters,Manager,Bangalore,Retail,1950000.0
+2,Bachelors,Software Engineer,Chennai,Manufacturing,611000.0
+11,Bachelors,Business Analyst,Mumbai,IT,1005000.0
+0,Masters,DevOps Engineer,Kolkata,Retail,537000.0
+7,Masters,Business Analyst,Hyderabad,Education,673000.0
+4,Bachelors,DevOps Engineer,Delhi,Manufacturing,818000.0
+3,Bachelors,Data Scientist,Bangalore,Finance,1200000.0
+13,Masters,Business Analyst,Hyderabad,IT,1266000.0
+22,Bachelors,Software Engineer,Bangalore,IT,1426000.0
+13,High School,Analyst,Pune,Healthcare,620000.0
+5,PhD,Analyst,Delhi,Education,714000.0
+19,Masters,Analyst,Kolkata,Retail,798000.0
+5,Masters,Business Analyst,Chennai,Healthcare,863000.0
+9,Bachelors,DevOps Engineer,Chennai,Education,777000.0
+12,Bachelors,Business Analyst,Chennai,Retail,699000.0
+1,High School,Analyst,Mumbai,Education,340000.0
+3,Masters,Analyst,Chennai,Education,438000.0
+14,Bachelors,Analyst,Kolkata,Finance,878000.0
+12,Bachelors,Data Scientist,Bangalore,IT,1552000.0
+3,Masters,Business Analyst,Pune,Finance,919000.0
+16,Masters,Data Scientist,Bangalore,Manufacturing,1602000.0
+25,Masters,DevOps Engineer,Pune,IT,1677000.0
+0,Masters,Analyst,Pune,Retail,521000.0
+9,Masters,Business Analyst,Delhi,IT,1038000.0
+2,Bachelors,Software Engineer,Delhi,Healthcare,739000.0
+1,PhD,Analyst,Mumbai,Education,660000.0
+18,Bachelors,Software Engineer,Pune,Education,901000.0
+16,Masters,Analyst,Hyderabad,Finance,1124000.0
+17,Masters,Software Engineer,Kolkata,IT,1240000.0
+7,Bachelors,Software Engineer,Chennai,Manufacturing,712000.0
+22,Bachelors,Analyst,Hyderabad,Manufacturing,992000.0
+17,Bachelors,Analyst,Pune,Finance,854000.0
+1,Bachelors,Software Engineer,Delhi,Manufacturing,603000.0
+0,Bachelors,Analyst,Delhi,Finance,604000.0
+18,Masters,Manager,Bangalore,Education,1886000.0
+2,Bachelors,Analyst,Pune,Retail,363000.0
+7,Bachelors,Business Analyst,Mumbai,Healthcare,742000.0
+1,Masters,DevOps Engineer,Hyderabad,Healthcare,920000.0
+15,Bachelors,Business Analyst,Hyderabad,Retail,634000.0
+17,High School,Software Engineer,Pune,Retail,657000.0
+18,Bachelors,Analyst,Kolkata,Retail,639000.0
+14,Masters,Analyst,Delhi,Finance,1133000.0
+2,Masters,Manager,Kolkata,Retail,1019000.0
+8,Bachelors,Manager,Mumbai,Education,1152000.0
+25,Masters,Software Engineer,Delhi,Manufacturing,1544000.0
+16,Bachelors,Software Engineer,Hyderabad,IT,1209000.0
+7,Masters,Software Engineer,Pune,IT,1173000.0
+3,Bachelors,Business Analyst,Chennai,Finance,700000.0
+22,Masters,DevOps Engineer,Delhi,Retail,1336000.0
+1,Masters,Software Engineer,Hyderabad,Finance,1069000.0
+11,Bachelors,Data Scientist,Hyderabad,Retail,943000.0
+7,Bachelors,Business Analyst,Bangalore,Retail,621000.0
+6,Masters,Software Engineer,Delhi,Retail,921000.0
+1,Bachelors,Analyst,Bangalore,Healthcare,446000.0
+20,Masters,Data Scientist,Chennai,Retail,1339000.0
+3,Masters,Analyst,Hyderabad,Finance,883000.0
+22,Masters,DevOps Engineer,Hyderabad,Retail,1097000.0
+14,Bachelors,Analyst,Kolkata,Healthcare,647000.0
+16,Bachelors,Business Analyst,Mumbai,Finance,1158000.0
+8,High School,Software Engineer,Bangalore,IT,1059000.0
+10,Masters,Software Engineer,Pune,Healthcare,1133000.0
+11,PhD,DevOps Engineer,Delhi,Education,1222000.0
+18,Bachelors,Analyst,Mumbai,IT,960000.0
+15,Masters,Business Analyst,Bangalore,Retail,947000.0
+21,Masters,Software Engineer,Delhi,IT,1825000.0
+8,PhD,Data Scientist,Pune,IT,1812000.0
+22,Masters,DevOps Engineer,Delhi,Manufacturing,1536000.0
+18,PhD,Data Scientist,Mumbai,Retail,1702000.0
+17,Masters,Manager,Pune,Healthcare,2015000.0
+16,Masters,Analyst,Kolkata,Education,624000.0
+12,High School,Business Analyst,Mumbai,Finance,875000.0
+14,Masters,Manager,Chennai,Manufacturing,1674000.0
+24,Masters,Software Engineer,Chennai,Finance,1597000.0
+2,Masters,DevOps Engineer,Mumbai,Retail,967000.0
+12,Bachelors,Analyst,Mumbai,Manufacturing,873000.0
+20,Bachelors,Manager,Pune,IT,1778000.0
+9,High School,Manager,Chennai,IT,1158000.0
+13,Bachelors,Data Scientist,Kolkata,Finance,1253000.0
+4,High School,Software Engineer,Chennai,Manufacturing,520000.0
+25,Masters,Business Analyst,Mumbai,Education,1073000.0
+5,PhD,DevOps Engineer,Mumbai,Manufacturing,1168000.0
+19,High School,Manager,Chennai,Manufacturing,1238000.0
+20,Masters,DevOps Engineer,Delhi,Healthcare,1466000.0
+16,PhD,DevOps Engineer,Chennai,Retail,1188000.0
+21,PhD,Software Engineer,Bangalore,Healthcare,1769000.0
+9,Bachelors,Data Scientist,Hyderabad,IT,1568000.0
+23,Masters,Analyst,Hyderabad,Retail,910000.0
+8,Masters,Business Analyst,Delhi,Healthcare,817000.0
+8,Bachelors,Analyst,Kolkata,Retail,496000.0
+7,PhD,Analyst,Mumbai,Finance,1230000.0
+23,Bachelors,DevOps Engineer,Mumbai,Retail,1236000.0
+4,Bachelors,Business Analyst,Kolkata,Retail,449000.0
+12,Masters,Business Analyst,Hyderabad,Retail,841000.0
+7,Masters,Analyst,Chennai,Retail,672000.0
+0,Masters,Analyst,Kolkata,IT,547000.0
+12,Masters,Software Engineer,Chennai,Finance,1311000.0
+3,Masters,DevOps Engineer,Kolkata,Retail,685000.0
+6,Bachelors,Manager,Delhi,Manufacturing,1166000.0
+12,Bachelors,Data Scientist,Chennai,Manufacturing,1163000.0
+7,Bachelors,Manager,Chennai,Healthcare,1046000.0
+15,Bachelors,DevOps Engineer,Pune,Finance,1432000.0
+14,PhD,Business Analyst,Hyderabad,Education,898000.0
+19,Masters,Data Scientist,Kolkata,Healthcare,1478000.0
+16,Masters,Software Engineer,Hyderabad,Finance,1444000.0
+23,High School,Data Scientist,Hyderabad,Retail,1155000.0
+19,Masters,Business Analyst,Mumbai,IT,1368000.0
+5,Bachelors,Analyst,Mumbai,Finance,877000.0
+2,Bachelors,Business Analyst,Chennai,Healthcare,561000.0
+19,Masters,DevOps Engineer,Kolkata,Manufacturing,1211000.0
+4,Masters,DevOps Engineer,Mumbai,IT,1356000.0
+4,PhD,Software Engineer,Delhi,Education,947000.0
+2,High School,Software Engineer,Kolkata,Finance,624000.0
+14,Bachelors,Analyst,Kolkata,Manufacturing,613000.0
+17,Masters,Analyst,Chennai,Education,665000.0
+20,PhD,Data Scientist,Mumbai,Education,1720000.0
+13,Masters,DevOps Engineer,Kolkata,Education,991000.0
+3,Masters,Software Engineer,Kolkata,Manufacturing,636000.0
+23,Bachelors,Business Analyst,Bangalore,Retail,949000.0
+17,Masters,Data Scientist,Hyderabad,Manufacturing,1652000.0
+0,PhD,Software Engineer,Mumbai,Manufacturing,843000.0
+18,Bachelors,Software Engineer,Kolkata,IT,1046000.0
+21,Masters,Manager,Bangalore,Finance,2704000.0
+7,High School,Manager,Bangalore,Finance,1472000.0
+0,Masters,Data Scientist,Hyderabad,Finance,1142000.0
+5,Masters,DevOps Engineer,Delhi,Finance,1358000.0
+2,Masters,Software Engineer,Hyderabad,IT,989000.0
+6,Masters,Software Engineer,Delhi,Education,868000.0
+19,Bachelors,Analyst,Pune,Healthcare,850000.0
+19,Masters,DevOps Engineer,Delhi,Manufacturing,1669000.0
+8,Bachelors,DevOps Engineer,Mumbai,Finance,1247000.0
+21,Masters,Manager,Chennai,IT,2187000.0
+22,Bachelors,Business Analyst,Chennai,Retail,805000.0
+22,High School,Manager,Delhi,Manufacturing,1276000.0
+23,PhD,Analyst,Kolkata,Finance,1292000.0
+18,Masters,Business Analyst,Hyderabad,IT,1219000.0
+20,Masters,Business Analyst,Kolkata,Retail,841000.0
+3,Masters,DevOps Engineer,Kolkata,Education,581000.0
+20,Bachelors,Manager,Delhi,Finance,2456000.0
+3,Bachelors,Data Scientist,Mumbai,Healthcare,989000.0
+2,Masters,Business Analyst,Pune,IT,706000.0
+2,Masters,Manager,Hyderabad,Finance,1572000.0
+12,Bachelors,DevOps Engineer,Kolkata,Retail,753000.0
+14,Masters,Software Engineer,Kolkata,Finance,1282000.0
+24,PhD,Data Scientist,Mumbai,Retail,1832000.0
+4,Bachelors,Manager,Kolkata,Retail,798000.0
+9,High School,DevOps Engineer,Delhi,Retail,661000.0
+9,Masters,Software Engineer,Bangalore,Retail,1071000.0
+0,Bachelors,DevOps Engineer,Kolkata,Education,416000.0
+24,Masters,Business Analyst,Kolkata,Retail,912000.0
+23,Masters,DevOps Engineer,Kolkata,Healthcare,1405000.0
+19,Bachelors,Data Scientist,Bangalore,Retail,1274000.0
+20,High School,Software Engineer,Bangalore,Healthcare,902000.0
+13,Masters,Manager,Chennai,Finance,2074000.0
+24,Masters,Analyst,Delhi,Education,926000.0
+5,Bachelors,DevOps Engineer,Chennai,Education,617000.0
+22,Bachelors,Business Analyst,Bangalore,Retail,942000.0
+5,Masters,DevOps Engineer,Pune,Finance,1215000.0
+17,Masters,Software Engineer,Kolkata,Healthcare,1100000.0
+7,Masters,Manager,Bangalore,IT,2056000.0
+20,Masters,Software Engineer,Delhi,Manufacturing,1218000.0
+1,PhD,DevOps Engineer,Pune,IT,1064000.0
+8,Bachelors,Data Scientist,Chennai,Manufacturing,1021000.0
+13,PhD,Analyst,Hyderabad,Finance,1282000.0
+18,Masters,Software Engineer,Hyderabad,Manufacturing,1305000.0
+6,High School,Software Engineer,Kolkata,Finance,776000.0
+24,Masters,Software Engineer,Mumbai,Education,1212000.0
+5,High School,Analyst,Hyderabad,Manufacturing,435000.0
+2,Bachelors,Data Scientist,Hyderabad,Education,837000.0
+20,Masters,Software Engineer,Kolkata,Retail,1095000.0
+11,Bachelors,Analyst,Pune,Manufacturing,565000.0
+13,Masters,Analyst,Mumbai,Retail,853000.0
+15,Masters,Manager,Pune,IT,2293000.0
+3,PhD,Manager,Chennai,Retail,1148000.0
+3,Bachelors,Manager,Hyderabad,Healthcare,1093000.0
+14,Bachelors,Data Scientist,Kolkata,Manufacturing,953000.0
+3,Masters,DevOps Engineer,Mumbai,Education,953000.0
+9,Masters,Software Engineer,Delhi,Retail,1083000.0
+0,Bachelors,Business Analyst,Delhi,Healthcare,547000.0
+12,Masters,DevOps Engineer,Chennai,Manufacturing,1271000.0
+14,Masters,Data Scientist,Bangalore,Retail,1468000.0
+9,PhD,Software Engineer,Delhi,Healthcare,1215000.0
+18,Masters,Data Scientist,Bangalore,Finance,2301000.0
+18,Masters,Software Engineer,Pune,Finance,1469000.0
+11,Masters,Business Analyst,Bangalore,Manufacturing,948000.0
+15,Bachelors,Analyst,Kolkata,Healthcare,636000.0
+24,Bachelors,Data Scientist,Mumbai,Retail,1281000.0
+17,Bachelors,DevOps Engineer,Chennai,IT,1330000.0
+6,Masters,Manager,Chennai,IT,1864000.0
+3,Bachelors,Software Engineer,Mumbai,Manufacturing,771000.0
+16,Masters,Manager,Chennai,Education,1423000.0
+20,Bachelors,Data Scientist,Mumbai,Manufacturing,1493000.0
+21,Masters,Manager,Delhi,Manufacturing,1789000.0
+16,PhD,DevOps Engineer,Kolkata,Manufacturing,1311000.0
+12,Masters,Software Engineer,Pune,Finance,1375000.0
+24,Masters,Manager,Bangalore,Education,1866000.0
+12,Bachelors,Analyst,Hyderabad,Retail,642000.0
+19,PhD,Manager,Bangalore,IT,2675000.0
+21,High School,Software Engineer,Chennai,Education,709000.0
+5,Bachelors,Business Analyst,Hyderabad,Education,493000.0
+1,Bachelors,Data Scientist,Mumbai,IT,1021000.0
+8,Bachelors,Analyst,Kolkata,Manufacturing,636000.0
+22,Bachelors,DevOps Engineer,Mumbai,Manufacturing,1235000.0
+4,Bachelors,Manager,Pune,IT,1313000.0
+2,Masters,Data Scientist,Hyderabad,Manufacturing,1003000.0
+5,Bachelors,Manager,Hyderabad,IT,1346000.0
+13,PhD,Data Scientist,Bangalore,Finance,2115000.0
+24,Bachelors,Software Engineer,Kolkata,Manufacturing,925000.0
+2,Bachelors,Software Engineer,Chennai,Retail,617000.0
+1,High School,Data Scientist,Kolkata,IT,654000.0
+11,PhD,Manager,Chennai,Manufacturing,1742000.0
+19,Bachelors,Manager,Pune,Manufacturing,1328000.0
+18,Masters,Data Scientist,Delhi,IT,2166000.0
+1,Bachelors,Data Scientist,Chennai,IT,826000.0
+20,Bachelors,DevOps Engineer,Hyderabad,Healthcare,1191000.0
+6,Masters,Manager,Bangalore,Education,1185000.0
+4,Masters,Manager,Chennai,Education,1121000.0
+3,Bachelors,Data Scientist,Pune,Retail,762000.0
+2,Bachelors,Manager,Hyderabad,Manufacturing,1091000.0
+6,Masters,DevOps Engineer,Chennai,Manufacturing,939000.0
+20,High School,Business Analyst,Delhi,Finance,912000.0
+23,Bachelors,Software Engineer,Chennai,Retail,979000.0
+20,Masters,Business Analyst,Kolkata,IT,1202000.0
+2,Bachelors,Analyst,Pune,Retail,397000.0
+19,Bachelors,Data Scientist,Mumbai,IT,1811000.0
+19,Masters,Data Scientist,Chennai,Finance,1795000.0
+0,Masters,Business Analyst,Bangalore,Finance,897000.0
+17,High School,Manager,Chennai,Education,1090000.0
+21,Masters,Software Engineer,Kolkata,Retail,1092000.0
+18,Bachelors,Manager,Bangalore,Retail,1617000.0
+18,High School,Software Engineer,Chennai,Education,729000.0
+20,Bachelors,DevOps Engineer,Kolkata,Healthcare,991000.0
+25,High School,DevOps Engineer,Hyderabad,Finance,1367000.0
+5,High School,Manager,Bangalore,IT,1201000.0
+24,Bachelors,DevOps Engineer,Pune,Finance,1483000.0
+9,Masters,Manager,Mumbai,Finance,2513000.0
+15,Masters,Manager,Delhi,Healthcare,2234000.0
+9,Bachelors,Data Scientist,Pune,IT,1167000.0
+25,Masters,DevOps Engineer,Kolkata,Manufacturing,1070000.0
+19,Bachelors,Analyst,Hyderabad,IT,852000.0
+22,Masters,Manager,Bangalore,Finance,2931000.0
+20,Masters,Business Analyst,Hyderabad,Manufacturing,1142000.0
+11,High School,DevOps Engineer,Hyderabad,Healthcare,877000.0
+24,PhD,Business Analyst,Chennai,Finance,1563000.0
+19,Masters,Analyst,Pune,Education,731000.0
+12,Bachelors,Business Analyst,Chennai,IT,756000.0
+18,Bachelors,DevOps Engineer,Pune,Education,923000.0
+14,Masters,Business Analyst,Pune,Finance,1311000.0
+11,Masters,Software Engineer,Kolkata,Healthcare,1003000.0
+9,Masters,Software Engineer,Delhi,Retail,1030000.0
+1,Bachelors,Business Analyst,Bangalore,Education,545000.0
+3,High School,Data Scientist,Delhi,Manufacturing,791000.0
+19,Bachelors,Analyst,Pune,Manufacturing,814000.0
+23,Bachelors,Data Scientist,Kolkata,Retail,1169000.0
+21,Masters,Business Analyst,Hyderabad,Retail,1016000.0
+21,Masters,Business Analyst,Delhi,Manufacturing,1098000.0
+12,High School,Manager,Chennai,Manufacturing,1026000.0
+2,High School,Data Scientist,Pune,Education,642000.0
+1,Masters,Analyst,Pune,Education,513000.0
+18,Bachelors,DevOps Engineer,Mumbai,Manufacturing,1390000.0
+25,Masters,Manager,Mumbai,Retail,2241000.0
+3,Bachelors,Software Engineer,Pune,IT,827000.0
+14,PhD,Manager,Hyderabad,Retail,1733000.0
+0,Bachelors,Manager,Kolkata,Healthcare,865000.0
+25,Masters,Software Engineer,Kolkata,Retail,1123000.0
+9,Bachelors,Business Analyst,Mumbai,IT,1133000.0
+5,Bachelors,Business Analyst,Mumbai,Retail,742000.0
+18,Bachelors,DevOps Engineer,Delhi,Healthcare,1168000.0
+19,Masters,Data Scientist,Chennai,Education,1039000.0
+5,Masters,DevOps Engineer,Pune,Finance,1235000.0
+3,Masters,DevOps Engineer,Hyderabad,Education,784000.0
+11,Bachelors,Manager,Bangalore,Education,1161000.0
+13,Bachelors,DevOps Engineer,Pune,Finance,1163000.0
+24,Masters,Manager,Bangalore,Retail,2153000.0
+20,Bachelors,Software Engineer,Mumbai,Manufacturing,1417000.0
+14,High School,Analyst,Kolkata,Retail,441000.0
+13,Masters,Data Scientist,Chennai,Finance,1627000.0
+4,Masters,Data Scientist,Chennai,IT,1326000.0
+11,Bachelors,Software Engineer,Bangalore,Finance,1253000.0
+20,Bachelors,Data Scientist,Bangalore,Manufacturing,1579000.0
+1,Bachelors,Analyst,Bangalore,Manufacturing,634000.0
+16,Bachelors,DevOps Engineer,Hyderabad,Manufacturing,1064000.0
+4,PhD,Software Engineer,Delhi,Finance,1442000.0
+1,Masters,Analyst,Chennai,Manufacturing,586000.0
+5,Masters,Data Scientist,Mumbai,Healthcare,1309000.0
+16,Bachelors,Business Analyst,Kolkata,Finance,987000.0
+21,High School,Business Analyst,Pune,Manufacturing,658000.0
+19,Masters,Analyst,Chennai,IT,1228000.0
+16,High School,Software Engineer,Hyderabad,Healthcare,869000.0
+7,Bachelors,Data Scientist,Kolkata,Healthcare,947000.0
+24,Bachelors,Analyst,Mumbai,Retail,811000.0
+18,Bachelors,Manager,Delhi,Education,1409000.0
+20,Bachelors,Software Engineer,Pune,Manufacturing,1149000.0
+7,Bachelors,Manager,Kolkata,Manufacturing,1000000.0
+2,Bachelors,Analyst,Delhi,Healthcare,603000.0
+7,Bachelors,Manager,Bangalore,Retail,1280000.0
+4,Bachelors,DevOps Engineer,Hyderabad,Manufacturing,837000.0
+18,Masters,Manager,Mumbai,Manufacturing,1948000.0
+12,Bachelors,Manager,Hyderabad,Finance,1753000.0
+22,Bachelors,Business Analyst,Bangalore,Healthcare,1205000.0
+1,Bachelors,DevOps Engineer,Chennai,Healthcare,703000.0
+8,Masters,Data Scientist,Hyderabad,Healthcare,1361000.0
+8,Bachelors,Data Scientist,Hyderabad,Healthcare,1175000.0
+11,Bachelors,Data Scientist,Chennai,Education,869000.0
+8,Masters,Data Scientist,Delhi,Healthcare,1350000.0
+24,Bachelors,DevOps Engineer,Bangalore,Retail,1236000.0
+2,High School,Business Analyst,Delhi,Finance,613000.0
+2,Masters,Manager,Pune,Manufacturing,1141000.0
+7,High School,Analyst,Kolkata,Finance,555000.0
+24,Bachelors,Business Analyst,Mumbai,IT,1405000.0
+13,PhD,Software Engineer,Pune,IT,1346000.0
+2,High School,Data Scientist,Mumbai,IT,904000.0
+13,Bachelors,Manager,Chennai,Manufacturing,1230000.0
+2,Bachelors,DevOps Engineer,Mumbai,Education,700000.0
+13,PhD,DevOps Engineer,Bangalore,Healthcare,1559000.0
+13,PhD,Data Scientist,Mumbai,IT,2389000.0
+22,Bachelors,Analyst,Pune,Education,784000.0
+13,Bachelors,Business Analyst,Chennai,Education,622000.0
+0,Bachelors,Software Engineer,Hyderabad,Healthcare,612000.0
+20,Bachelors,Analyst,Hyderabad,Manufacturing,758000.0
+7,Masters,Business Analyst,Hyderabad,Manufacturing,830000.0
+8,PhD,Business Analyst,Hyderabad,IT,1097000.0
+10,PhD,Data Scientist,Chennai,Retail,1104000.0
+4,Bachelors,Business Analyst,Mumbai,Education,606000.0
+16,High School,Software Engineer,Chennai,Education,675000.0
+21,Bachelors,Software Engineer,Mumbai,Finance,1518000.0
+20,Masters,Manager,Bangalore,Retail,1828000.0
+18,Bachelors,Manager,Kolkata,Education,1097000.0
+21,Bachelors,Data Scientist,Mumbai,IT,1511000.0
+0,Bachelors,DevOps Engineer,Hyderabad,Manufacturing,610000.0
+11,Masters,Analyst,Mumbai,Education,704000.0
+9,PhD,Business Analyst,Chennai,IT,1073000.0
+15,Bachelors,Software Engineer,Chennai,Retail,991000.0
+5,Masters,Software Engineer,Hyderabad,Healthcare,932000.0
+6,Masters,Software Engineer,Hyderabad,Finance,1279000.0
+10,High School,Software Engineer,Bangalore,Retail,743000.0
+20,Bachelors,Software Engineer,Pune,Retail,884000.0
+10,High School,Analyst,Chennai,Manufacturing,492000.0
+18,Bachelors,Business Analyst,Chennai,Retail,669000.0
+11,Masters,Software Engineer,Chennai,Finance,1326000.0
+17,Bachelors,Manager,Hyderabad,IT,1758000.0
+3,Bachelors,Analyst,Pune,Education,466000.0
+11,High School,Software Engineer,Pune,Finance,900000.0
+8,Masters,Analyst,Mumbai,Retail,789000.0
+2,Masters,Analyst,Chennai,Finance,774000.0
+5,Masters,DevOps Engineer,Delhi,IT,1298000.0
+10,Bachelors,Business Analyst,Pune,Finance,1046000.0
+4,Bachelors,Software Engineer,Pune,IT,929000.0
+20,Masters,Data Scientist,Kolkata,Healthcare,1592000.0
+12,Bachelors,Business Analyst,Hyderabad,Finance,867000.0
+2,Bachelors,Manager,Pune,IT,1233000.0
+22,Bachelors,Data Scientist,Mumbai,IT,1885000.0
+23,Bachelors,Manager,Chennai,Education,1300000.0
+4,Masters,Software Engineer,Pune,Education,739000.0
+17,Masters,Analyst,Pune,Healthcare,778000.0
+10,Bachelors,DevOps Engineer,Chennai,Finance,1182000.0
+5,Bachelors,Manager,Bangalore,Retail,1234000.0
+17,Bachelors,Analyst,Mumbai,Healthcare,789000.0
+5,Masters,Business Analyst,Hyderabad,Finance,858000.0
+4,Masters,Business Analyst,Delhi,Education,689000.0
+3,PhD,Software Engineer,Bangalore,Retail,912000.0
+12,Masters,DevOps Engineer,Kolkata,IT,1095000.0
+3,PhD,Software Engineer,Bangalore,Retail,852000.0
+1,Bachelors,Business Analyst,Mumbai,Healthcare,692000.0
+12,Bachelors,Software Engineer,Chennai,Manufacturing,851000.0
+11,Bachelors,Analyst,Pune,Education,600000.0
+23,PhD,Business Analyst,Pune,Finance,1310000.0
+10,Bachelors,Business Analyst,Bangalore,Healthcare,873000.0
+24,Masters,Analyst,Chennai,Retail,926000.0
+7,High School,Software Engineer,Chennai,Education,596000.0
+21,Bachelors,Manager,Hyderabad,Retail,1633000.0
+21,Masters,Manager,Chennai,IT,2180000.0
+25,PhD,Software Engineer,Mumbai,Healthcare,2143000.0
+25,PhD,Manager,Kolkata,Manufacturing,1698000.0
+5,Bachelors,DevOps Engineer,Pune,Healthcare,937000.0
+10,PhD,Analyst,Delhi,IT,1249000.0
+14,Masters,Business Analyst,Mumbai,IT,1300000.0
+7,Masters,Software Engineer,Bangalore,IT,1198000.0
+5,Bachelors,Business Analyst,Chennai,Manufacturing,571000.0
+22,High School,DevOps Engineer,Chennai,Manufacturing,974000.0
+9,Masters,Business Analyst,Kolkata,Finance,1020000.0
+8,Bachelors,DevOps Engineer,Bangalore,Manufacturing,1077000.0
+6,High School,Analyst,Bangalore,Education,458000.0
+24,Masters,Business Analyst,Chennai,Retail,995000.0
+0,Masters,Data Scientist,Pune,IT,1097000.0
+1,High School,Manager,Hyderabad,Manufacturing,792000.0
+13,Masters,Business Analyst,Delhi,Retail,756000.0
+18,Bachelors,Data Scientist,Bangalore,Finance,1884000.0
+1,High School,Business Analyst,Pune,Education,373000.0
+1,Bachelors,DevOps Engineer,Hyderabad,Healthcare,729000.0
+6,Bachelors,Software Engineer,Hyderabad,Retail,692000.0
+12,Masters,Business Analyst,Mumbai,IT,1212000.0
+22,Bachelors,DevOps Engineer,Delhi,Finance,1646000.0
+3,Masters,Manager,Kolkata,Finance,1469000.0
+19,Bachelors,DevOps Engineer,Hyderabad,Education,884000.0
+12,PhD,Data Scientist,Kolkata,Manufacturing,1239000.0
+16,Bachelors,Software Engineer,Delhi,Retail,1009000.0
+25,Masters,DevOps Engineer,Hyderabad,IT,1671000.0
+10,Masters,Analyst,Mumbai,IT,1205000.0
+1,Bachelors,Manager,Delhi,Healthcare,1123000.0
+15,PhD,Analyst,Chennai,IT,1136000.0
+25,High School,Business Analyst,Bangalore,Education,781000.0
+9,Bachelors,Business Analyst,Chennai,Healthcare,777000.0
+12,Bachelors,Manager,Mumbai,IT,1987000.0
+8,Bachelors,Analyst,Mumbai,Education,617000.0
+4,High School,Business Analyst,Hyderabad,Education,413000.0
+15,Bachelors,DevOps Engineer,Mumbai,Education,1117000.0
+8,High School,Software Engineer,Chennai,Finance,671000.0
+1,Bachelors,Software Engineer,Hyderabad,Healthcare,741000.0
+21,Masters,Software Engineer,Kolkata,Retail,1049000.0
+3,Masters,Manager,Hyderabad,Education,1059000.0
+11,Bachelors,DevOps Engineer,Hyderabad,IT,1160000.0
+2,Masters,Software Engineer,Hyderabad,Manufacturing,848000.0
+9,Bachelors,Business Analyst,Delhi,Manufacturing,774000.0
+1,High School,Manager,Hyderabad,Finance,950000.0
+2,Bachelors,DevOps Engineer,Bangalore,Education,669000.0
+10,Masters,Data Scientist,Kolkata,Finance,1443000.0
+5,Masters,Manager,Pune,IT,1683000.0
+21,High School,Analyst,Pune,Manufacturing,632000.0
+8,Bachelors,DevOps Engineer,Pune,Retail,873000.0
+6,Bachelors,DevOps Engineer,Kolkata,Healthcare,726000.0
+20,Masters,Manager,Pune,Healthcare,2068000.0
+7,Bachelors,Analyst,Kolkata,Healthcare,585000.0
+8,PhD,Data Scientist,Kolkata,Retail,1076000.0
+25,Masters,Software Engineer,Pune,Retail,1347000.0
+23,PhD,Data Scientist,Mumbai,Education,1708000.0
+25,Bachelors,Data Scientist,Bangalore,Finance,2071000.0
+24,Masters,Business Analyst,Mumbai,Healthcare,1357000.0
+3,Bachelors,Manager,Mumbai,Healthcare,1317000.0
+0,Bachelors,Manager,Hyderabad,Manufacturing,969000.0
+8,Masters,Data Scientist,Bangalore,Finance,1740000.0
+4,Bachelors,Software Engineer,Mumbai,Manufacturing,731000.0
+1,Bachelors,Business Analyst,Delhi,Retail,468000.0
+13,High School,DevOps Engineer,Hyderabad,Manufacturing,840000.0
+13,Bachelors,DevOps Engineer,Mumbai,Manufacturing,1320000.0
+5,Bachelors,Manager,Chennai,Healthcare,1077000.0
+10,Masters,Analyst,Pune,Education,675000.0
+11,PhD,Manager,Mumbai,Education,1777000.0
+10,Bachelors,Data Scientist,Mumbai,Manufacturing,1302000.0
+21,High School,DevOps Engineer,Kolkata,Education,700000.0
+22,Bachelors,Data Scientist,Hyderabad,Education,1156000.0
+14,Bachelors,Analyst,Pune,IT,868000.0
+21,Masters,Manager,Bangalore,Retail,1724000.0
+9,Masters,Manager,Kolkata,Finance,1622000.0
+22,Masters,Analyst,Hyderabad,Retail,916000.0
+24,Bachelors,Manager,Chennai,Retail,1398000.0
+23,PhD,Data Scientist,Mumbai,IT,2460000.0
+24,Masters,Software Engineer,Mumbai,Education,1291000.0
+25,Bachelors,Data Scientist,Chennai,Education,1081000.0
+19,Masters,Data Scientist,Kolkata,IT,1542000.0
+12,PhD,Data Scientist,Mumbai,Healthcare,1794000.0
+8,High School,Data Scientist,Bangalore,IT,1158000.0
+8,PhD,Business Analyst,Mumbai,Healthcare,1063000.0
+20,Bachelors,Data Scientist,Mumbai,Healthcare,1576000.0
+22,PhD,Business Analyst,Chennai,Manufacturing,1071000.0
+3,Masters,Manager,Pune,Finance,1615000.0
+8,Bachelors,DevOps Engineer,Kolkata,Manufacturing,700000.0
+24,Bachelors,Data Scientist,Pune,Healthcare,1139000.0
+23,Masters,Business Analyst,Kolkata,Finance,1223000.0
+23,Bachelors,Manager,Mumbai,Finance,2428000.0
+23,Bachelors,Business Analyst,Chennai,Manufacturing,956000.0
+20,Masters,Software Engineer,Chennai,IT,1455000.0
+24,PhD,DevOps Engineer,Chennai,Retail,1341000.0
+19,Bachelors,Analyst,Hyderabad,Education,728000.0
+4,Masters,Data Scientist,Delhi,Manufacturing,1238000.0
+4,Masters,Analyst,Mumbai,Manufacturing,739000.0
+14,Masters,DevOps Engineer,Chennai,Manufacturing,1117000.0
+20,Bachelors,Analyst,Pune,Finance,916000.0
+8,Bachelors,Data Scientist,Hyderabad,IT,1330000.0
+16,Masters,Manager,Pune,IT,2148000.0
+16,Bachelors,Software Engineer,Mumbai,Education,882000.0
+16,PhD,Data Scientist,Pune,Healthcare,1690000.0
+25,Masters,DevOps Engineer,Bangalore,IT,1999000.0
+1,Masters,Business Analyst,Bangalore,Retail,655000.0
+20,Masters,Software Engineer,Kolkata,Retail,894000.0
+22,Bachelors,Software Engineer,Mumbai,Finance,1641000.0
+3,Bachelors,Analyst,Mumbai,Education,489000.0
+2,High School,Data Scientist,Bangalore,Manufacturing,741000.0
+5,Bachelors,Software Engineer,Mumbai,Retail,969000.0
+0,Bachelors,DevOps Engineer,Chennai,Manufacturing,511000.0
+10,Masters,Manager,Pune,Education,1422000.0
+11,Bachelors,DevOps Engineer,Mumbai,IT,1291000.0
+23,PhD,Data Scientist,Pune,Healthcare,2036000.0
+18,High School,Manager,Bangalore,IT,1639000.0
+4,Bachelors,Software Engineer,Hyderabad,IT,878000.0
+4,Masters,DevOps Engineer,Chennai,Manufacturing,862000.0
+17,Bachelors,Analyst,Hyderabad,Retail,613000.0
+1,Bachelors,Manager,Bangalore,Retail,987000.0
+22,Bachelors,Analyst,Hyderabad,Retail,786000.0
+23,PhD,Data Scientist,Pune,Finance,2376000.0
+1,PhD,Business Analyst,Kolkata,Manufacturing,611000.0
+8,Masters,Data Scientist,Kolkata,IT,1323000.0
+6,Bachelors,Data Scientist,Delhi,IT,1114000.0
+2,Bachelors,Manager,Delhi,Manufacturing,1066000.0
+6,Bachelors,DevOps Engineer,Kolkata,Healthcare,801000.0
+8,High School,Manager,Mumbai,Education,983000.0
+20,High School,Analyst,Hyderabad,Healthcare,626000.0
+9,Bachelors,DevOps Engineer,Bangalore,Healthcare,1138000.0
+3,PhD,Data Scientist,Bangalore,Finance,1450000.0
+20,PhD,DevOps Engineer,Mumbai,Retail,1645000.0
+1,Bachelors,Business Analyst,Kolkata,IT,491000.0
+16,Bachelors,Software Engineer,Bangalore,Education,979000.0
+5,PhD,Software Engineer,Delhi,Finance,1532000.0
+21,Bachelors,Manager,Mumbai,Retail,1642000.0
+14,Masters,Analyst,Bangalore,Healthcare,1068000.0
+25,PhD,Manager,Bangalore,Healthcare,2386000.0
+19,Bachelors,Software Engineer,Chennai,Education,889000.0
+14,High School,Software Engineer,Bangalore,Manufacturing,784000.0
+7,Bachelors,Data Scientist,Mumbai,Manufacturing,1093000.0
+25,Masters,Data Scientist,Hyderabad,Finance,2113000.0
+3,PhD,Business Analyst,Hyderabad,Healthcare,899000.0
+9,Bachelors,Analyst,Hyderabad,Healthcare,662000.0
+5,Masters,Software Engineer,Kolkata,Education,743000.0
+0,Masters,Software Engineer,Delhi,Healthcare,928000.0
+10,Masters,DevOps Engineer,Delhi,Education,957000.0
+17,Masters,Business Analyst,Pune,Education,833000.0
+10,Masters,Business Analyst,Kolkata,Manufacturing,596000.0
+6,High School,DevOps Engineer,Kolkata,Education,507000.0
+13,High School,Software Engineer,Bangalore,Manufacturing,805000.0
+5,Bachelors,Business Analyst,Chennai,IT,770000.0
+6,Masters,Manager,Mumbai,Healthcare,1578000.0
+3,Bachelors,Manager,Kolkata,Education,881000.0
+24,Bachelors,Data Scientist,Kolkata,IT,1228000.0
+12,Bachelors,Business Analyst,Kolkata,Manufacturing,668000.0
+6,Bachelors,Software Engineer,Chennai,Retail,557000.0
+8,High School,Business Analyst,Mumbai,Manufacturing,717000.0
+22,Masters,Analyst,Hyderabad,IT,1205000.0
+21,Bachelors,Business Analyst,Pune,Retail,735000.0
+15,Bachelors,Software Engineer,Pune,Retail,956000.0
+1,Bachelors,Manager,Delhi,Manufacturing,977000.0
+9,Masters,Analyst,Kolkata,Finance,873000.0
+8,Bachelors,Analyst,Hyderabad,Manufacturing,589000.0
+23,Masters,Business Analyst,Bangalore,IT,1329000.0
+0,Bachelors,Data Scientist,Pune,Finance,918000.0
+18,Bachelors,Software Engineer,Delhi,Retail,869000.0
+15,PhD,Software Engineer,Chennai,Retail,1051000.0
+25,Bachelors,Business Analyst,Chennai,Finance,1105000.0
+16,Masters,Data Scientist,Bangalore,Retail,1535000.0
+10,High School,Business Analyst,Mumbai,Retail,670000.0
+20,Bachelors,Data Scientist,Kolkata,IT,1484000.0
+23,Masters,Software Engineer,Hyderabad,IT,1753000.0
+18,Bachelors,DevOps Engineer,Bangalore,Manufacturing,1358000.0
+8,Masters,Analyst,Mumbai,Retail,779000.0
+13,Bachelors,Data Scientist,Mumbai,Finance,1826000.0
+3,Masters,Manager,Bangalore,IT,1386000.0
+12,Bachelors,Business Analyst,Chennai,Manufacturing,626000.0
+18,High School,DevOps Engineer,Mumbai,Manufacturing,1076000.0
+3,Bachelors,Manager,Mumbai,Finance,1605000.0
+10,Masters,Software Engineer,Bangalore,Education,966000.0
+1,Masters,Software Engineer,Kolkata,IT,880000.0
+12,Bachelors,Data Scientist,Kolkata,IT,1244000.0
+2,Masters,Manager,Chennai,Healthcare,1173000.0
+5,Masters,Software Engineer,Pune,Healthcare,906000.0
+20,Masters,Manager,Delhi,Retail,2028000.0
+11,Bachelors,Business Analyst,Mumbai,Manufacturing,883000.0
+15,Bachelors,Analyst,Bangalore,Retail,702000.0
+11,Masters,Analyst,Pune,IT,853000.0
+25,Masters,Manager,Mumbai,Finance,3096000.0
+16,Bachelors,DevOps Engineer,Bangalore,Healthcare,1244000.0
+5,Masters,Business Analyst,Bangalore,Manufacturing,786000.0
+25,Bachelors,Analyst,Kolkata,Manufacturing,697000.0
+9,Masters,Manager,Pune,Manufacturing,1595000.0
+19,Bachelors,Manager,Bangalore,Retail,1631000.0
+21,High School,Business Analyst,Mumbai,Retail,795000.0
+15,Bachelors,DevOps Engineer,Mumbai,Retail,1121000.0
+6,PhD,DevOps Engineer,Delhi,Finance,1630000.0
+5,High School,Manager,Kolkata,Healthcare,871000.0
+9,High School,Analyst,Mumbai,Retail,539000.0
+10,Bachelors,Analyst,Hyderabad,Healthcare,697000.0
+15,Bachelors,DevOps Engineer,Hyderabad,Manufacturing,1086000.0
+3,High School,Analyst,Delhi,Healthcare,487000.0
+2,Masters,Business Analyst,Chennai,Finance,768000.0
+18,Bachelors,Data Scientist,Chennai,Healthcare,1279000.0
+24,Bachelors,Analyst,Pune,Healthcare,849000.0
+4,Masters,Business Analyst,Mumbai,Retail,790000.0
+11,Bachelors,DevOps Engineer,Bangalore,Finance,1437000.0
+10,PhD,Business Analyst,Delhi,Healthcare,1242000.0
+22,Masters,Analyst,Chennai,Education,916000.0
+24,Masters,Data Scientist,Hyderabad,Healthcare,1778000.0
+0,Masters,Manager,Bangalore,Education,1001000.0
+16,Masters,DevOps Engineer,Delhi,Education,1099000.0
+17,Masters,Analyst,Mumbai,Education,1016000.0
+5,Bachelors,Data Scientist,Hyderabad,Retail,827000.0
+12,Masters,Software Engineer,Hyderabad,Finance,1424000.0
+7,High School,Analyst,Hyderabad,Education,440000.0
+7,High School,Data Scientist,Hyderabad,IT,1066000.0
+15,Masters,Analyst,Pune,Retail,786000.0
+14,Masters,Analyst,Chennai,IT,1022000.0
+22,Masters,Business Analyst,Hyderabad,Manufacturing,1169000.0
+19,Bachelors,Business Analyst,Pune,Education,736000.0
+18,Masters,Data Scientist,Delhi,Education,1403000.0
+25,Bachelors,Manager,Delhi,Manufacturing,1968000.0
+4,Masters,Manager,Pune,Healthcare,1085000.0
+13,Masters,Business Analyst,Hyderabad,Education,769000.0
+3,Masters,Manager,Chennai,Finance,1667000.0
+21,Masters,Data Scientist,Hyderabad,Manufacturing,1374000.0
+13,Masters,Business Analyst,Hyderabad,Finance,1182000.0
+7,Bachelors,Analyst,Kolkata,Education,414000.0
+22,PhD,Data Scientist,Bangalore,Finance,2555000.0
+20,Bachelors,Software Engineer,Hyderabad,Retail,1002000.0
+11,Masters,Data Scientist,Pune,Retail,991000.0
+16,Masters,Manager,Delhi,Healthcare,1583000.0
+8,Bachelors,Manager,Hyderabad,Healthcare,1544000.0
+6,Bachelors,Data Scientist,Pune,Education,841000.0
+7,Bachelors,Software Engineer,Bangalore,Retail,635000.0
+5,Masters,Software Engineer,Kolkata,Finance,977000.0
+6,PhD,Business Analyst,Mumbai,Manufacturing,1104000.0
+5,Masters,Business Analyst,Hyderabad,Healthcare,769000.0
+1,PhD,Business Analyst,Hyderabad,Manufacturing,684000.0
+24,Masters,Analyst,Delhi,Healthcare,1090000.0
+4,Bachelors,Software Engineer,Pune,IT,921000.0
+20,Masters,DevOps Engineer,Kolkata,Retail,1178000.0
+16,Masters,Business Analyst,Bangalore,Manufacturing,1242000.0
+3,Bachelors,Business Analyst,Bangalore,Finance,826000.0
+25,Masters,Business Analyst,Pune,Retail,1036000.0
+16,Masters,Business Analyst,Pune,Finance,1236000.0
+6,PhD,Data Scientist,Chennai,Manufacturing,1442000.0
+17,Bachelors,Business Analyst,Hyderabad,Retail,767000.0
+18,Masters,Software Engineer,Kolkata,Finance,1300000.0
+11,Bachelors,Manager,Hyderabad,IT,1547000.0
+14,Bachelors,Business Analyst,Hyderabad,IT,1028000.0
+24,Bachelors,Analyst,Hyderabad,Education,781000.0
+18,Masters,Analyst,Pune,IT,1052000.0
+0,Bachelors,Business Analyst,Chennai,Retail,376000.0
+12,Masters,DevOps Engineer,Bangalore,IT,1464000.0
+2,Bachelors,Software Engineer,Chennai,Healthcare,741000.0
+5,Masters,DevOps Engineer,Kolkata,Finance,1228000.0
+5,PhD,Analyst,Kolkata,Education,592000.0
+3,PhD,Manager,Delhi,IT,1783000.0
+8,Bachelors,Manager,Hyderabad,Healthcare,1216000.0
+7,Bachelors,Manager,Bangalore,Finance,1527000.0
+17,PhD,Software Engineer,Pune,Education,1082000.0
+3,Bachelors,Analyst,Bangalore,Education,445000.0
+23,Bachelors,Business Analyst,Bangalore,Finance,1147000.0
+18,PhD,Business Analyst,Mumbai,Finance,1795000.0
+15,Masters,Analyst,Kolkata,IT,849000.0
+1,Masters,Data Scientist,Kolkata,Education,785000.0
+22,Bachelors,Software Engineer,Hyderabad,IT,1343000.0
+20,Bachelors,Software Engineer,Kolkata,Manufacturing,920000.0
+20,Masters,Software Engineer,Kolkata,Manufacturing,1125000.0
+13,Masters,DevOps Engineer,Bangalore,Retail,1219000.0
+23,Bachelors,Business Analyst,Hyderabad,IT,1125000.0
+20,Masters,DevOps Engineer,Pune,Healthcare,1389000.0
+7,Bachelors,Software Engineer,Kolkata,IT,838000.0
+4,High School,Business Analyst,Pune,Retail,418000.0
+23,High School,DevOps Engineer,Chennai,Retail,831000.0
+0,Masters,Analyst,Hyderabad,Healthcare,536000.0
+11,Bachelors,Data Scientist,Chennai,Healthcare,1174000.0
+21,Bachelors,DevOps Engineer,Bangalore,Finance,1828000.0
+20,Bachelors,Data Scientist,Pune,Education,1093000.0
+21,Bachelors,Software Engineer,Bangalore,IT,1381000.0
+9,Bachelors,Business Analyst,Pune,IT,816000.0
+16,Bachelors,Data Scientist,Chennai,IT,1491000.0
+5,Bachelors,DevOps Engineer,Chennai,Manufacturing,711000.0
+7,Masters,DevOps Engineer,Chennai,Healthcare,1091000.0
+12,Bachelors,Business Analyst,Mumbai,Education,764000.0
+25,PhD,Data Scientist,Kolkata,Manufacturing,1907000.0
+5,Masters,Data Scientist,Delhi,Education,1156000.0
+12,Bachelors,Manager,Pune,Healthcare,1481000.0
+10,High School,Analyst,Bangalore,Healthcare,649000.0
+25,Masters,Business Analyst,Chennai,IT,1099000.0
+6,Bachelors,Software Engineer,Mumbai,Education,871000.0
+13,Bachelors,DevOps Engineer,Kolkata,Healthcare,863000.0
+15,Masters,DevOps Engineer,Kolkata,Retail,989000.0
+1,Masters,DevOps Engineer,Pune,Healthcare,743000.0
+8,Bachelors,Data Scientist,Pune,Education,878000.0
+24,Bachelors,DevOps Engineer,Delhi,Manufacturing,1349000.0
+17,High School,Business Analyst,Chennai,Education,586000.0
+22,Masters,DevOps Engineer,Delhi,Retail,1322000.0
+13,Bachelors,Business Analyst,Pune,Manufacturing,807000.0
+7,Bachelors,Software Engineer,Chennai,Finance,949000.0
+19,Bachelors,Analyst,Pune,Healthcare,841000.0
+3,Bachelors,Software Engineer,Bangalore,Healthcare,871000.0
+4,Masters,DevOps Engineer,Mumbai,Manufacturing,1071000.0
+22,Bachelors,Analyst,Delhi,Healthcare,837000.0
+8,Masters,DevOps Engineer,Bangalore,Finance,1571000.0
+14,Bachelors,Manager,Pune,Manufacturing,1278000.0
+24,Bachelors,Business Analyst,Pune,IT,1161000.0
+13,Bachelors,Software Engineer,Bangalore,Manufacturing,1110000.0
+2,Masters,Data Scientist,Delhi,Healthcare,1172000.0
+21,PhD,Software Engineer,Hyderabad,Finance,1769000.0
+11,High School,Data Scientist,Hyderabad,Healthcare,963000.0
+17,Masters,Analyst,Delhi,Manufacturing,920000.0
+24,Masters,Data Scientist,Kolkata,Education,1253000.0
+1,High School,Analyst,Mumbai,Manufacturing,433000.0
+7,High School,Business Analyst,Hyderabad,Healthcare,548000.0
+23,Bachelors,Business Analyst,Delhi,Education,860000.0
+21,Bachelors,Manager,Chennai,Manufacturing,1430000.0
+6,High School,Manager,Chennai,Retail,733000.0
+2,Bachelors,DevOps Engineer,Kolkata,Healthcare,624000.0
+4,Masters,Manager,Chennai,Education,1013000.0
+24,Bachelors,Manager,Delhi,Manufacturing,1758000.0
+21,High School,Business Analyst,Mumbai,Finance,1034000.0
+12,Bachelors,DevOps Engineer,Chennai,Education,742000.0
+18,Masters,Manager,Pune,IT,2058000.0
+19,Masters,Manager,Delhi,Finance,2529000.0
+10,Bachelors,Data Scientist,Kolkata,Retail,826000.0
+11,High School,Data Scientist,Bangalore,Finance,1153000.0
+9,Masters,Analyst,Bangalore,Retail,765000.0
+18,PhD,Data Scientist,Mumbai,Education,1965000.0
+23,Masters,DevOps Engineer,Pune,Retail,1160000.0
+10,Bachelors,Analyst,Pune,Retail,535000.0
+9,Masters,Data Scientist,Kolkata,Education,887000.0
+18,Bachelors,Data Scientist,Mumbai,Healthcare,1499000.0
+9,Masters,DevOps Engineer,Delhi,IT,1530000.0
+15,High School,DevOps Engineer,Hyderabad,Education,771000.0
+9,Masters,Software Engineer,Chennai,IT,1125000.0
+21,Bachelors,Business Analyst,Hyderabad,Retail,876000.0
+10,Bachelors,Data Scientist,Delhi,IT,1444000.0
+1,Bachelors,Software Engineer,Kolkata,Finance,629000.0
+3,Bachelors,Analyst,Delhi,IT,777000.0
+13,Bachelors,Manager,Chennai,Education,1205000.0
+4,Masters,DevOps Engineer,Delhi,Finance,1058000.0
+11,Bachelors,DevOps Engineer,Kolkata,Retail,768000.0
+15,PhD,Software Engineer,Bangalore,Retail,1108000.0
+3,Masters,DevOps Engineer,Mumbai,Retail,875000.0
+3,Bachelors,Analyst,Hyderabad,Manufacturing,501000.0
+5,Masters,Software Engineer,Chennai,Manufacturing,872000.0
+4,Bachelors,Manager,Pune,Healthcare,845000.0
+13,Bachelors,Software Engineer,Chennai,Healthcare,851000.0
+21,High School,Business Analyst,Mumbai,Education,652000.0
+2,Masters,Business Analyst,Hyderabad,IT,918000.0
+4,Bachelors,Software Engineer,Pune,IT,794000.0
+19,Bachelors,Analyst,Pune,Manufacturing,852000.0
+25,High School,Manager,Hyderabad,Healthcare,1153000.0
+0,Bachelors,Business Analyst,Pune,IT,665000.0
+5,Masters,Analyst,Bangalore,Healthcare,737000.0
+2,Masters,Manager,Kolkata,Education,948000.0
+3,Bachelors,Analyst,Hyderabad,Healthcare,596000.0
+12,Masters,Business Analyst,Kolkata,IT,928000.0
+20,Masters,Analyst,Mumbai,Education,795000.0
+7,PhD,Analyst,Delhi,Healthcare,983000.0
+23,High School,Analyst,Kolkata,Manufacturing,537000.0
+10,Masters,Analyst,Mumbai,Manufacturing,785000.0
+5,Bachelors,DevOps Engineer,Bangalore,Finance,1168000.0
+0,PhD,Analyst,Kolkata,Manufacturing,561000.0
+11,Bachelors,Business Analyst,Chennai,Manufacturing,764000.0
+20,Bachelors,Software Engineer,Chennai,IT,1179000.0
+19,Masters,Analyst,Bangalore,Manufacturing,1108000.0
+25,Bachelors,DevOps Engineer,Bangalore,Retail,1231000.0
+14,Bachelors,Software Engineer,Hyderabad,Retail,797000.0
+18,High School,DevOps Engineer,Hyderabad,Healthcare,788000.0
+12,Bachelors,Software Engineer,Mumbai,Manufacturing,1003000.0
+9,Masters,Business Analyst,Hyderabad,Education,673000.0
+24,PhD,DevOps Engineer,Bangalore,Finance,1869000.0
+16,Bachelors,Data Scientist,Bangalore,Retail,1144000.0
+1,High School,Manager,Mumbai,Manufacturing,837000.0
+25,Bachelors,DevOps Engineer,Delhi,IT,1459000.0
+19,High School,Analyst,Hyderabad,IT,700000.0
+17,Bachelors,Business Analyst,Mumbai,Healthcare,1182000.0
+16,Bachelors,DevOps Engineer,Delhi,IT,1223000.0
+3,Bachelors,DevOps Engineer,Mumbai,Finance,1205000.0
+17,Bachelors,Business Analyst,Bangalore,Finance,1215000.0
+25,PhD,Business Analyst,Hyderabad,Manufacturing,1413000.0
+18,Bachelors,DevOps Engineer,Chennai,Manufacturing,1105000.0
+24,Masters,Data Scientist,Chennai,Education,1290000.0
+20,Bachelors,Manager,Pune,Retail,1484000.0
+11,High School,Analyst,Pune,Healthcare,629000.0
+25,Bachelors,Analyst,Pune,Finance,1027000.0
+10,Masters,Data Scientist,Kolkata,IT,1297000.0
+1,Masters,DevOps Engineer,Delhi,IT,1049000.0
+22,Masters,Analyst,Pune,Manufacturing,936000.0
+18,Masters,Software Engineer,Delhi,Retail,1054000.0
+21,High School,Business Analyst,Delhi,Retail,592000.0
+6,Bachelors,Business Analyst,Mumbai,Healthcare,805000.0
+18,Masters,Business Analyst,Pune,Healthcare,1047000.0
+12,PhD,Analyst,Pune,Finance,1101000.0
+19,Bachelors,Analyst,Chennai,Healthcare,798000.0
+12,PhD,Software Engineer,Kolkata,Manufacturing,1011000.0
+12,Bachelors,DevOps Engineer,Delhi,IT,1281000.0
+11,High School,Analyst,Hyderabad,IT,709000.0
+24,PhD,Software Engineer,Bangalore,Education,1408000.0
+8,Bachelors,Analyst,Hyderabad,Retail,518000.0
+10,High School,DevOps Engineer,Chennai,Healthcare,723000.0
+24,High School,Analyst,Pune,IT,801000.0
+7,Masters,Manager,Bangalore,Education,1373000.0
+15,PhD,DevOps Engineer,Chennai,Retail,1276000.0
+4,High School,DevOps Engineer,Delhi,Finance,883000.0
+17,Bachelors,Manager,Pune,Retail,1533000.0
+17,Masters,Analyst,Mumbai,Healthcare,1208000.0
+13,Masters,Manager,Bangalore,IT,2059000.0
+18,Masters,DevOps Engineer,Pune,Manufacturing,1362000.0
+0,Masters,Analyst,Kolkata,Retail,396000.0
+16,PhD,Analyst,Delhi,Healthcare,1294000.0
+22,Masters,DevOps Engineer,Kolkata,Healthcare,1240000.0
+12,Bachelors,Manager,Pune,Manufacturing,1501000.0
+10,Masters,DevOps Engineer,Chennai,Healthcare,1049000.0
+17,Masters,Software Engineer,Chennai,IT,1339000.0
+11,Bachelors,Analyst,Pune,Healthcare,641000.0
+9,Bachelors,Manager,Mumbai,Manufacturing,1625000.0
+24,Masters,Data Scientist,Chennai,Retail,1345000.0
+16,Bachelors,Business Analyst,Hyderabad,Retail,756000.0
+1,Bachelors,Data Scientist,Bangalore,Manufacturing,845000.0
+10,Bachelors,DevOps Engineer,Hyderabad,Retail,814000.0
+2,Bachelors,Analyst,Bangalore,Healthcare,568000.0
+17,Masters,Manager,Chennai,Retail,1655000.0
+24,High School,Manager,Hyderabad,Healthcare,1274000.0
+1,Masters,Data Scientist,Chennai,Healthcare,990000.0
+21,PhD,Software Engineer,Delhi,Healthcare,1768000.0
+0,Bachelors,Manager,Pune,Finance,1148000.0
+5,Masters,DevOps Engineer,Bangalore,Healthcare,982000.0
+6,Masters,Data Scientist,Hyderabad,IT,1363000.0
+19,Bachelors,Manager,Pune,IT,1717000.0
+12,Masters,Manager,Bangalore,Healthcare,2199000.0
+4,Masters,Data Scientist,Pune,Finance,1414000.0
+12,High School,Business Analyst,Delhi,Retail,610000.0
+15,Bachelors,Software Engineer,Hyderabad,Retail,855000.0
+10,Bachelors,Business Analyst,Delhi,Retail,672000.0
+4,Bachelors,Software Engineer,Kolkata,Finance,713000.0
+21,Bachelors,Business Analyst,Pune,Retail,846000.0
+22,Bachelors,Data Scientist,Kolkata,Education,934000.0
+22,Bachelors,Data Scientist,Bangalore,Retail,1550000.0
+22,Bachelors,Data Scientist,Mumbai,Finance,1813000.0
+10,Masters,Business Analyst,Mumbai,Manufacturing,889000.0
+14,PhD,Software Engineer,Kolkata,IT,1284000.0
+11,Masters,DevOps Engineer,Bangalore,Healthcare,1348000.0
+18,Masters,DevOps Engineer,Mumbai,Finance,2013000.0
+15,Masters,Data Scientist,Bangalore,Retail,1381000.0
+23,High School,DevOps Engineer,Chennai,Manufacturing,948000.0
+24,High School,DevOps Engineer,Mumbai,Finance,1318000.0
+2,Bachelors,Business Analyst,Hyderabad,Healthcare,541000.0
+25,High School,DevOps Engineer,Pune,Manufacturing,1032000.0
+6,Bachelors,Software Engineer,Chennai,Manufacturing,714000.0
+3,Masters,Analyst,Hyderabad,Retail,574000.0
+15,Masters,Manager,Pune,IT,2057000.0
+10,Masters,Software Engineer,Delhi,Education,809000.0
+16,Bachelors,Business Analyst,Mumbai,Education,848000.0
+14,Bachelors,Manager,Hyderabad,Retail,1215000.0
+17,Bachelors,DevOps Engineer,Delhi,Manufacturing,1116000.0
+14,Masters,Analyst,Hyderabad,Retail,840000.0
+19,Bachelors,Software Engineer,Delhi,Manufacturing,1037000.0
+14,Bachelors,Software Engineer,Chennai,Finance,1149000.0
+22,Bachelors,Business Analyst,Bangalore,Manufacturing,900000.0
+13,PhD,DevOps Engineer,Delhi,IT,1908000.0
+19,Bachelors,Business Analyst,Hyderabad,Healthcare,911000.0
+4,Masters,Data Scientist,Bangalore,Healthcare,1109000.0
+1,PhD,Data Scientist,Hyderabad,Manufacturing,1048000.0
+16,PhD,Business Analyst,Chennai,Education,846000.0
+9,Bachelors,Software Engineer,Mumbai,Education,1010000.0
+21,Masters,DevOps Engineer,Delhi,Retail,1352000.0
+0,Masters,Manager,Kolkata,Retail,837000.0
+17,High School,Analyst,Bangalore,Education,598000.0
+5,Bachelors,Data Scientist,Pune,Finance,1101000.0
+9,Bachelors,Software Engineer,Chennai,Finance,1180000.0
+10,Masters,Data Scientist,Bangalore,Finance,1793000.0
+22,Masters,DevOps Engineer,Delhi,Finance,1929000.0
+23,Bachelors,DevOps Engineer,Hyderabad,Finance,1518000.0
+0,Masters,Software Engineer,Kolkata,Finance,796000.0
+13,Masters,Manager,Delhi,Healthcare,1796000.0
+23,Masters,Manager,Mumbai,Manufacturing,2308000.0
+6,Bachelors,Software Engineer,Pune,Education,592000.0
+2,Bachelors,Business Analyst,Hyderabad,Healthcare,590000.0
+8,Bachelors,Software Engineer,Pune,Manufacturing,880000.0
+15,Masters,Data Scientist,Bangalore,Manufacturing,1497000.0
+13,PhD,Analyst,Pune,Healthcare,942000.0
+24,High School,Analyst,Delhi,Retail,720000.0
+15,Bachelors,Business Analyst,Hyderabad,Finance,1022000.0
+15,Bachelors,Manager,Delhi,Healthcare,1634000.0
+11,Bachelors,DevOps Engineer,Chennai,Education,805000.0
+13,Bachelors,Analyst,Delhi,Finance,923000.0
+11,Masters,Software Engineer,Kolkata,IT,1008000.0
+21,Bachelors,Data Scientist,Hyderabad,Healthcare,1279000.0
+22,PhD,Business Analyst,Pune,Education,865000.0
+25,Masters,Manager,Chennai,Healthcare,1991000.0
+22,Masters,DevOps Engineer,Chennai,Finance,1752000.0
+2,Masters,Business Analyst,Delhi,IT,874000.0
+17,PhD,Software Engineer,Bangalore,Retail,1440000.0
+13,Masters,DevOps Engineer,Pune,Finance,1547000.0
+3,Masters,Manager,Bangalore,IT,1543000.0
+9,PhD,Data Scientist,Mumbai,Education,1588000.0
+14,Masters,Manager,Bangalore,Manufacturing,2030000.0
+17,Bachelors,Manager,Delhi,Retail,1580000.0
+21,High School,Data Scientist,Bangalore,Healthcare,1137000.0
+9,Masters,Analyst,Chennai,Manufacturing,755000.0
+13,Bachelors,Software Engineer,Chennai,IT,969000.0
+1,Bachelors,Manager,Hyderabad,IT,1083000.0
+17,PhD,Data Scientist,Mumbai,Retail,1713000.0
+20,Bachelors,Business Analyst,Delhi,Retail,858000.0
+19,PhD,Data Scientist,Bangalore,IT,2465000.0
+13,Masters,Manager,Delhi,Healthcare,1973000.0
+10,High School,Business Analyst,Pune,Healthcare,678000.0
+14,Bachelors,Analyst,Delhi,Education,739000.0
+13,PhD,Data Scientist,Chennai,Healthcare,1586000.0
+1,PhD,Analyst,Bangalore,Education,627000.0
+2,Bachelors,Data Scientist,Mumbai,Education,849000.0
+3,PhD,DevOps Engineer,Hyderabad,Education,902000.0
+0,High School,Data Scientist,Hyderabad,Finance,779000.0
+7,Masters,Manager,Hyderabad,Education,1301000.0
+10,Bachelors,DevOps Engineer,Pune,IT,1064000.0
+25,High School,Manager,Pune,Healthcare,1389000.0
+16,Masters,Manager,Bangalore,Retail,1844000.0
+13,Bachelors,Data Scientist,Kolkata,Finance,1000000.0
+7,High School,Software Engineer,Pune,Retail,589000.0
+22,Bachelors,Manager,Delhi,Education,1673000.0
+3,Bachelors,Analyst,Delhi,Education,466000.0
+13,High School,Manager,Hyderabad,Finance,1552000.0
+20,Bachelors,Analyst,Hyderabad,Education,644000.0
+20,High School,Analyst,Chennai,Healthcare,682000.0
+4,Masters,Business Analyst,Bangalore,Healthcare,815000.0
+5,Bachelors,Business Analyst,Chennai,IT,804000.0
+23,Masters,DevOps Engineer,Pune,Manufacturing,1425000.0
+9,PhD,Manager,Pune,Manufacturing,1883000.0
+16,Bachelors,DevOps Engineer,Pune,Healthcare,1121000.0
+0,Masters,Manager,Delhi,Retail,1093000.0
+24,PhD,Business Analyst,Mumbai,Finance,1976000.0
+11,Masters,Data Scientist,Hyderabad,Retail,1328000.0
+11,Bachelors,Data Scientist,Mumbai,Education,1225000.0
+20,Masters,Business Analyst,Kolkata,Education,762000.0
+13,Masters,Data Scientist,Chennai,Manufacturing,1264000.0
+20,Bachelors,DevOps Engineer,Pune,Education,945000.0
+0,Masters,DevOps Engineer,Hyderabad,Retail,742000.0
+11,Bachelors,Data Scientist,Pune,Manufacturing,1106000.0
+17,High School,Analyst,Delhi,Retail,560000.0
+23,Bachelors,Software Engineer,Hyderabad,IT,1264000.0
+24,Bachelors,Manager,Delhi,Healthcare,1843000.0
+9,Bachelors,Manager,Delhi,Finance,1584000.0
+1,Bachelors,DevOps Engineer,Pune,Retail,608000.0
+6,Bachelors,Business Analyst,Delhi,Finance,861000.0
+19,Bachelors,Data Scientist,Chennai,Manufacturing,1167000.0
+17,Bachelors,Business Analyst,Hyderabad,Education,686000.0
+16,PhD,Data Scientist,Delhi,Education,1322000.0
+0,Masters,Software Engineer,Kolkata,Finance,732000.0
+18,Bachelors,Analyst,Hyderabad,IT,1101000.0
+11,PhD,Business Analyst,Bangalore,Finance,1437000.0
+21,Bachelors,Business Analyst,Mumbai,Finance,1381000.0
+7,Masters,Data Scientist,Pune,Education,1025000.0
+17,Bachelors,DevOps Engineer,Kolkata,Finance,1232000.0
+4,Bachelors,Data Scientist,Kolkata,Manufacturing,760000.0
+4,Bachelors,Analyst,Delhi,Education,545000.0
+12,Bachelors,DevOps Engineer,Delhi,Finance,1549000.0
+2,Bachelors,Manager,Chennai,Manufacturing,941000.0
+0,Bachelors,Manager,Delhi,Retail,835000.0
+15,Bachelors,Software Engineer,Mumbai,Retail,986000.0
+22,PhD,DevOps Engineer,Chennai,Education,1327000.0
+9,High School,Manager,Delhi,Retail,1008000.0
+15,High School,Software Engineer,Kolkata,Retail,594000.0
+23,Bachelors,Data Scientist,Hyderabad,Finance,1862000.0
+12,Bachelors,Business Analyst,Delhi,Manufacturing,800000.0
+20,Bachelors,Software Engineer,Chennai,Healthcare,993000.0
+9,High School,DevOps Engineer,Pune,Retail,578000.0
+9,Bachelors,Manager,Pune,Finance,1523000.0
+15,Masters,Software Engineer,Pune,Education,1016000.0
+8,Masters,Data Scientist,Mumbai,Healthcare,1362000.0
+24,Bachelors,Software Engineer,Hyderabad,Education,864000.0
+17,Masters,Data Scientist,Kolkata,Education,1100000.0
+4,Bachelors,Software Engineer,Pune,Finance,923000.0
+21,Bachelors,Software Engineer,Hyderabad,Manufacturing,1173000.0
+22,Bachelors,Software Engineer,Mumbai,IT,1331000.0
+16,Masters,DevOps Engineer,Pune,Healthcare,1388000.0
+10,Bachelors,Software Engineer,Kolkata,Finance,1064000.0
+14,Bachelors,DevOps Engineer,Kolkata,Manufacturing,923000.0
+3,Masters,Software Engineer,Hyderabad,Finance,1068000.0
+16,Bachelors,Business Analyst,Kolkata,Education,657000.0
+25,Masters,Business Analyst,Kolkata,Education,767000.0
+16,Bachelors,Business Analyst,Mumbai,Manufacturing,828000.0
+12,Bachelors,DevOps Engineer,Kolkata,Education,714000.0
+1,Bachelors,Data Scientist,Delhi,IT,954000.0
+12,High School,Data Scientist,Delhi,Finance,1133000.0
+20,Masters,Software Engineer,Bangalore,IT,1830000.0
+4,High School,DevOps Engineer,Pune,Education,469000.0
+18,Masters,Software Engineer,Chennai,Manufacturing,1365000.0
+23,Masters,Business Analyst,Mumbai,IT,1648000.0
+6,Bachelors,Business Analyst,Kolkata,Manufacturing,569000.0
+22,High School,DevOps Engineer,Hyderabad,IT,999000.0
+18,Bachelors,Software Engineer,Chennai,Healthcare,1087000.0
+9,Masters,Software Engineer,Mumbai,IT,1495000.0
+22,High School,Manager,Chennai,Finance,1222000.0
+20,Bachelors,DevOps Engineer,Mumbai,Retail,1261000.0
+16,Masters,Analyst,Mumbai,Manufacturing,1042000.0
+9,PhD,Manager,Bangalore,IT,2331000.0
+3,Masters,Business Analyst,Pune,Finance,839000.0
+20,PhD,Software Engineer,Pune,Education,1129000.0
+4,Bachelors,Software Engineer,Mumbai,Education,695000.0
+17,Bachelors,Analyst,Mumbai,IT,1071000.0
+18,Bachelors,Manager,Bangalore,Retail,1265000.0
+16,Masters,Data Scientist,Pune,Healthcare,1179000.0
+13,High School,Manager,Delhi,Healthcare,1313000.0
+6,Masters,Data Scientist,Kolkata,Manufacturing,1039000.0
+3,High School,DevOps Engineer,Mumbai,IT,888000.0
+8,Bachelors,Analyst,Mumbai,Finance,858000.0
+3,Masters,Software Engineer,Kolkata,Education,552000.0
+1,Bachelors,DevOps Engineer,Pune,Education,547000.0
+14,Bachelors,Software Engineer,Pune,IT,1114000.0
+11,PhD,Manager,Delhi,Finance,2177000.0
+11,PhD,Manager,Pune,Manufacturing,1483000.0
+8,Masters,Manager,Mumbai,Finance,2217000.0
+25,Bachelors,Data Scientist,Kolkata,Manufacturing,1157000.0
+5,Masters,Data Scientist,Mumbai,Healthcare,1520000.0
+23,Masters,Data Scientist,Pune,IT,1721000.0
+19,Bachelors,Business Analyst,Delhi,IT,1058000.0
+23,Masters,Analyst,Mumbai,Healthcare,1084000.0
+3,Bachelors,DevOps Engineer,Mumbai,Education,688000.0
+13,Masters,Analyst,Hyderabad,IT,1020000.0
+3,Bachelors,Analyst,Bangalore,IT,669000.0
+25,Bachelors,Analyst,Pune,Healthcare,838000.0
+2,Masters,Manager,Chennai,Education,985000.0
+12,PhD,Software Engineer,Bangalore,Manufacturing,1271000.0
+15,Masters,Analyst,Mumbai,Retail,1035000.0
+20,Masters,Data Scientist,Kolkata,Finance,1752000.0
+2,High School,Analyst,Chennai,Retail,319000.0
+19,Bachelors,Data Scientist,Bangalore,Education,1157000.0
+6,Bachelors,Business Analyst,Mumbai,Manufacturing,720000.0
+5,Bachelors,DevOps Engineer,Kolkata,IT,885000.0
+14,Masters,Business Analyst,Chennai,IT,1060000.0
+14,Bachelors,Data Scientist,Hyderabad,Manufacturing,1410000.0
+20,Masters,Analyst,Pune,Finance,1133000.0
+11,Masters,Software Engineer,Hyderabad,Manufacturing,948000.0
+2,Bachelors,Data Scientist,Hyderabad,Retail,695000.0
+22,Bachelors,Business Analyst,Kolkata,Retail,696000.0
+25,Masters,Data Scientist,Pune,Finance,2294000.0
+20,Masters,Data Scientist,Pune,Healthcare,1582000.0
+8,PhD,DevOps Engineer,Chennai,Finance,1377000.0
+19,Masters,DevOps Engineer,Delhi,Healthcare,1390000.0
+0,Masters,DevOps Engineer,Hyderabad,Finance,1087000.0
+2,Bachelors,Manager,Pune,IT,1314000.0
+24,Masters,Manager,Mumbai,Healthcare,2673000.0
+8,Bachelors,Manager,Hyderabad,Retail,1163000.0
+9,Bachelors,Manager,Hyderabad,Retail,1130000.0
+13,Masters,Business Analyst,Chennai,Finance,937000.0
+5,Bachelors,Data Scientist,Chennai,Manufacturing,862000.0
+15,Masters,Manager,Pune,Retail,1576000.0
+23,PhD,Analyst,Chennai,Finance,1462000.0
+25,Masters,DevOps Engineer,Hyderabad,IT,1870000.0
+10,Bachelors,Software Engineer,Chennai,Manufacturing,883000.0
+19,Bachelors,DevOps Engineer,Pune,Finance,1473000.0
+24,Bachelors,Software Engineer,Pune,Manufacturing,1136000.0
+15,Masters,Business Analyst,Hyderabad,Retail,986000.0
+21,PhD,Software Engineer,Chennai,Manufacturing,1401000.0
+13,PhD,Software Engineer,Bangalore,IT,1615000.0
+23,PhD,Business Analyst,Mumbai,IT,1894000.0
+22,Masters,Data Scientist,Pune,Finance,2317000.0
+3,Bachelors,Data Scientist,Hyderabad,Finance,1194000.0
+0,High School,Data Scientist,Kolkata,IT,642000.0
+21,Bachelors,DevOps Engineer,Chennai,Finance,1556000.0
+25,Masters,Data Scientist,Kolkata,Manufacturing,1529000.0
+4,Bachelors,Manager,Bangalore,IT,1494000.0
+19,PhD,Software Engineer,Pune,Healthcare,1441000.0
+13,Masters,DevOps Engineer,Kolkata,Retail,976000.0
+3,PhD,Analyst,Bangalore,Healthcare,788000.0
+21,Masters,Software Engineer,Delhi,Healthcare,1429000.0
+3,Bachelors,Analyst,Chennai,Finance,704000.0
+10,Bachelors,Software Engineer,Delhi,Finance,1026000.0
+2,Bachelors,Software Engineer,Delhi,IT,883000.0
+4,PhD,Data Scientist,Bangalore,Education,1327000.0
+12,Bachelors,Analyst,Hyderabad,Manufacturing,723000.0
+3,Bachelors,Software Engineer,Delhi,Healthcare,755000.0
+21,Bachelors,Business Analyst,Kolkata,Retail,710000.0
+20,Bachelors,Manager,Kolkata,Education,1110000.0
+8,Bachelors,Data Scientist,Chennai,Education,918000.0
+11,Masters,Business Analyst,Hyderabad,Finance,1237000.0
+18,Masters,DevOps Engineer,Bangalore,Retail,1306000.0
+1,Masters,DevOps Engineer,Hyderabad,Healthcare,796000.0
+25,Bachelors,Manager,Delhi,Healthcare,1994000.0
+8,Masters,Business Analyst,Delhi,Education,682000.0
+22,High School,Business Analyst,Bangalore,Finance,1169000.0
+9,Bachelors,Analyst,Bangalore,Retail,655000.0
+0,Bachelors,Data Scientist,Bangalore,Manufacturing,858000.0
+24,High School,Data Scientist,Hyderabad,IT,1458000.0
+14,Bachelors,Data Scientist,Delhi,IT,1413000.0
+16,Masters,Analyst,Hyderabad,Healthcare,1072000.0
+5,High School,Data Scientist,Delhi,Education,590000.0
+25,High School,Software Engineer,Hyderabad,Retail,872000.0
+19,PhD,Manager,Delhi,Education,1693000.0
+4,Bachelors,Business Analyst,Bangalore,Finance,818000.0
+17,Bachelors,Analyst,Delhi,IT,903000.0
+8,Bachelors,DevOps Engineer,Mumbai,Manufacturing,1200000.0
+6,PhD,Software Engineer,Delhi,Retail,1016000.0
+21,High School,Manager,Pune,Finance,1491000.0
+4,Bachelors,Manager,Delhi,Healthcare,1119000.0
+24,Masters,DevOps Engineer,Pune,Manufacturing,1229000.0
+2,Bachelors,DevOps Engineer,Chennai,Manufacturing,734000.0
+10,Bachelors,Software Engineer,Delhi,Education,891000.0
+6,PhD,Data Scientist,Chennai,Education,948000.0
+7,High School,Manager,Hyderabad,Retail,829000.0
+7,Masters,Software Engineer,Mumbai,Education,896000.0
+7,Masters,Business Analyst,Mumbai,Healthcare,894000.0
+17,High School,Manager,Bangalore,IT,1915000.0
+18,Masters,Software Engineer,Pune,Finance,1464000.0
+9,Masters,Business Analyst,Bangalore,Finance,1096000.0
+4,Bachelors,Business Analyst,Kolkata,IT,606000.0
+17,Bachelors,DevOps Engineer,Delhi,Retail,1039000.0
+6,Bachelors,Software Engineer,Bangalore,Manufacturing,920000.0
+17,Bachelors,Data Scientist,Mumbai,IT,1704000.0
+7,Masters,Software Engineer,Pune,Manufacturing,977000.0
+21,Bachelors,Data Scientist,Pune,Education,1091000.0
+2,Masters,Analyst,Pune,Finance,740000.0
+9,Masters,Analyst,Bangalore,Education,763000.0
+1,Masters,Data Scientist,Mumbai,Finance,1438000.0
+9,PhD,DevOps Engineer,Pune,IT,1177000.0
+18,Bachelors,Software Engineer,Kolkata,Education,672000.0
+3,Masters,Analyst,Kolkata,Retail,517000.0
+17,Bachelors,Software Engineer,Delhi,Retail,1067000.0
+22,Masters,Business Analyst,Mumbai,Manufacturing,1183000.0
+14,Bachelors,Data Scientist,Bangalore,Healthcare,1303000.0
+18,Bachelors,Data Scientist,Hyderabad,Healthcare,1332000.0
+7,Bachelors,Analyst,Delhi,Manufacturing,660000.0
+17,Bachelors,Business Analyst,Bangalore,IT,1045000.0
+20,Masters,Analyst,Hyderabad,Education,870000.0
+7,Bachelors,Analyst,Kolkata,Education,442000.0
+1,Bachelors,DevOps Engineer,Pune,Manufacturing,684000.0
+1,Bachelors,Software Engineer,Pune,Manufacturing,554000.0
+13,High School,Manager,Kolkata,Healthcare,1085000.0
+6,Masters,Data Scientist,Chennai,Education,965000.0
+12,PhD,Manager,Pune,Retail,1661000.0
+1,Masters,Data Scientist,Hyderabad,IT,1109000.0
+24,Masters,Software Engineer,Mumbai,Retail,1414000.0
+24,High School,Analyst,Kolkata,Manufacturing,623000.0
+4,Masters,Business Analyst,Bangalore,Manufacturing,609000.0
+21,Masters,Data Scientist,Kolkata,Education,1183000.0
+15,High School,Manager,Chennai,Retail,1015000.0
+15,Masters,Software Engineer,Delhi,Finance,1585000.0
+12,PhD,Data Scientist,Pune,Education,1253000.0
+15,Masters,Data Scientist,Bangalore,Finance,1962000.0
+6,Bachelors,Business Analyst,Kolkata,Healthcare,621000.0
+22,Masters,Software Engineer,Bangalore,IT,1628000.0
+20,PhD,Software Engineer,Mumbai,IT,2064000.0
+18,Masters,Business Analyst,Delhi,Manufacturing,895000.0
+13,High School,Data Scientist,Bangalore,IT,1269000.0
+18,Bachelors,Analyst,Chennai,Finance,953000.0
+19,Masters,Data Scientist,Delhi,Retail,1503000.0
+16,High School,Analyst,Delhi,Manufacturing,614000.0
+11,Bachelors,Business Analyst,Delhi,Healthcare,742000.0
+8,Bachelors,Analyst,Kolkata,IT,619000.0
+1,High School,Business Analyst,Chennai,Manufacturing,450000.0
+0,Masters,Business Analyst,Hyderabad,Retail,518000.0
+1,Masters,Business Analyst,Delhi,IT,826000.0
+13,Masters,Analyst,Pune,Retail,726000.0
+9,Bachelors,DevOps Engineer,Kolkata,Finance,1011000.0
+19,Bachelors,Data Scientist,Chennai,Finance,1611000.0
+8,Masters,Manager,Hyderabad,Finance,1699000.0
+2,Bachelors,Analyst,Pune,IT,601000.0
+15,Masters,DevOps Engineer,Pune,Healthcare,1259000.0
+4,Bachelors,Business Analyst,Delhi,Healthcare,638000.0
+25,Bachelors,Manager,Pune,Education,1476000.0
+22,Masters,Analyst,Mumbai,Education,939000.0
+23,PhD,Business Analyst,Mumbai,Retail,1243000.0
+13,Bachelors,Analyst,Bangalore,Healthcare,834000.0
+10,Masters,Manager,Mumbai,Retail,1639000.0
+10,High School,Business Analyst,Delhi,Healthcare,746000.0
+14,Bachelors,DevOps Engineer,Chennai,Education,876000.0
+13,Bachelors,Software Engineer,Mumbai,Healthcare,1169000.0
+4,Masters,Data Scientist,Bangalore,Healthcare,1193000.0
+1,Masters,DevOps Engineer,Mumbai,Education,706000.0
+3,Masters,Data Scientist,Delhi,Retail,971000.0
+13,High School,Software Engineer,Hyderabad,Manufacturing,743000.0
+18,High School,Analyst,Delhi,Retail,581000.0
+7,PhD,Analyst,Hyderabad,Manufacturing,828000.0
+23,Bachelors,Manager,Kolkata,IT,1747000.0
+6,Bachelors,Data Scientist,Mumbai,Manufacturing,1180000.0
+9,High School,Business Analyst,Delhi,Education,428000.0
+23,Masters,DevOps Engineer,Chennai,Retail,1214000.0
+7,Bachelors,Manager,Chennai,IT,1369000.0
+6,Masters,Data Scientist,Bangalore,Retail,1204000.0
+1,Bachelors,Manager,Pune,Manufacturing,890000.0
+20,Bachelors,Manager,Delhi,Finance,2095000.0
+11,Bachelors,DevOps Engineer,Kolkata,Retail,678000.0
+9,PhD,Analyst,Kolkata,Healthcare,805000.0
+7,Masters,Business Analyst,Pune,Manufacturing,843000.0
+8,Masters,Data Scientist,Bangalore,Retail,1152000.0
+9,High School,DevOps Engineer,Kolkata,IT,698000.0
+15,Bachelors,Data Scientist,Pune,Education,994000.0
+18,High School,Manager,Chennai,Healthcare,1199000.0
+9,Bachelors,DevOps Engineer,Mumbai,Retail,1001000.0
+8,Bachelors,Data Scientist,Kolkata,Manufacturing,876000.0
+11,Masters,DevOps Engineer,Delhi,IT,1603000.0
+14,High School,Software Engineer,Delhi,Finance,1137000.0
+5,Bachelors,Business Analyst,Mumbai,Healthcare,868000.0
+0,Masters,Software Engineer,Hyderabad,Retail,647000.0
+9,Bachelors,Analyst,Delhi,Retail,563000.0
+21,Masters,Software Engineer,Mumbai,Education,1370000.0
+1,Bachelors,Analyst,Pune,Healthcare,528000.0
+2,Masters,DevOps Engineer,Hyderabad,Retail,692000.0
+14,Masters,Software Engineer,Bangalore,Manufacturing,1130000.0
+19,Masters,Business Analyst,Bangalore,IT,1409000.0
+20,Bachelors,Business Analyst,Delhi,Manufacturing,952000.0
+23,Masters,Business Analyst,Bangalore,Education,970000.0
+9,Masters,Software Engineer,Mumbai,Healthcare,1228000.0
+11,Masters,Software Engineer,Bangalore,IT,1481000.0
+6,Bachelors,DevOps Engineer,Pune,IT,1157000.0
+23,Masters,Business Analyst,Hyderabad,Education,991000.0
+5,Masters,Manager,Kolkata,Manufacturing,1064000.0
+10,Masters,Data Scientist,Chennai,Healthcare,1379000.0
+15,Bachelors,Software Engineer,Bangalore,Finance,1304000.0
+12,Bachelors,Manager,Bangalore,Education,1265000.0
+17,Masters,Analyst,Pune,IT,940000.0
+19,PhD,Business Analyst,Bangalore,Manufacturing,1370000.0
+15,High School,DevOps Engineer,Chennai,Retail,758000.0
+10,High School,Analyst,Pune,Manufacturing,528000.0
+6,Bachelors,Data Scientist,Hyderabad,Manufacturing,994000.0
+7,Bachelors,Analyst,Bangalore,Manufacturing,664000.0
+13,Bachelors,Manager,Delhi,Retail,1213000.0
+16,Bachelors,DevOps Engineer,Chennai,Finance,1271000.0
+5,Bachelors,Business Analyst,Bangalore,Education,625000.0
+25,Bachelors,Manager,Kolkata,IT,1721000.0
+15,Bachelors,Software Engineer,Pune,Finance,1135000.0
+14,Bachelors,Data Scientist,Kolkata,Healthcare,1055000.0
+23,Bachelors,DevOps Engineer,Chennai,Finance,1348000.0
+15,Masters,DevOps Engineer,Delhi,Education,1146000.0
+23,Bachelors,Business Analyst,Kolkata,Manufacturing,800000.0
+19,Masters,Software Engineer,Delhi,Healthcare,1433000.0
+21,High School,Analyst,Kolkata,Healthcare,618000.0
+13,Masters,Data Scientist,Delhi,Healthcare,1428000.0
+21,Masters,Data Scientist,Pune,Finance,2304000.0
+16,High School,DevOps Engineer,Pune,Manufacturing,749000.0
+5,Masters,Software Engineer,Kolkata,Education,756000.0
+16,PhD,Analyst,Kolkata,Finance,1063000.0
+16,Masters,Data Scientist,Mumbai,Manufacturing,1850000.0
+5,PhD,DevOps Engineer,Pune,Finance,1451000.0
+7,Bachelors,Business Analyst,Mumbai,Healthcare,912000.0
+17,Bachelors,Analyst,Pune,Manufacturing,722000.0
+19,Bachelors,Software Engineer,Bangalore,Education,927000.0
+12,Bachelors,DevOps Engineer,Pune,IT,1082000.0
+19,Bachelors,Software Engineer,Pune,Finance,1072000.0
+16,PhD,Software Engineer,Pune,Finance,1489000.0
+24,Bachelors,Analyst,Delhi,Retail,852000.0
+6,Bachelors,Software Engineer,Kolkata,Finance,863000.0
+12,Masters,Software Engineer,Mumbai,Finance,1792000.0
+6,Masters,Business Analyst,Delhi,Retail,720000.0
+12,Masters,Software Engineer,Hyderabad,Healthcare,1272000.0
+23,Bachelors,Data Scientist,Pune,IT,1738000.0
+10,Bachelors,Analyst,Kolkata,Finance,653000.0
+5,Masters,Business Analyst,Chennai,Education,636000.0
+0,Masters,Analyst,Hyderabad,Finance,681000.0
+9,Bachelors,Software Engineer,Bangalore,Retail,721000.0
+2,Masters,DevOps Engineer,Pune,Healthcare,885000.0
+16,High School,Business Analyst,Kolkata,Retail,522000.0
+24,Bachelors,DevOps Engineer,Chennai,Education,1053000.0
+3,Masters,Business Analyst,Chennai,Manufacturing,604000.0
+22,Bachelors,Software Engineer,Hyderabad,Education,787000.0
+16,High School,DevOps Engineer,Kolkata,Retail,721000.0
+24,Masters,Data Scientist,Pune,Manufacturing,1384000.0
+9,Masters,DevOps Engineer,Bangalore,Healthcare,1196000.0
+12,Masters,DevOps Engineer,Mumbai,Healthcare,1568000.0
+16,Masters,DevOps Engineer,Kolkata,Education,962000.0
+7,Bachelors,Software Engineer,Pune,Education,682000.0
+10,Bachelors,Data Scientist,Delhi,Finance,1481000.0
+23,Masters,Analyst,Delhi,IT,1159000.0
+12,High School,Software Engineer,Hyderabad,Finance,875000.0
+14,Bachelors,Analyst,Hyderabad,Retail,681000.0
+5,Bachelors,Data Scientist,Bangalore,Education,871000.0
+17,Masters,Analyst,Kolkata,Education,631000.0
+0,PhD,Software Engineer,Delhi,IT,1039000.0
+8,Bachelors,Data Scientist,Hyderabad,Healthcare,1184000.0
+10,Bachelors,Analyst,Pune,Healthcare,729000.0
+9,Bachelors,Software Engineer,Delhi,Finance,1128000.0
+6,Bachelors,Data Scientist,Kolkata,IT,986000.0
+1,Bachelors,DevOps Engineer,Hyderabad,Finance,823000.0
+4,Bachelors,Data Scientist,Bangalore,Healthcare,1172000.0
+22,Bachelors,Manager,Pune,Education,1262000.0
+21,Bachelors,Software Engineer,Hyderabad,Manufacturing,1176000.0
+4,High School,Manager,Pune,Retail,737000.0
+15,Masters,DevOps Engineer,Delhi,Finance,1979000.0
+16,Masters,Analyst,Mumbai,Retail,949000.0
+4,Bachelors,DevOps Engineer,Pune,Finance,1031000.0
+19,Masters,Data Scientist,Hyderabad,Education,1106000.0
+14,Bachelors,Data Scientist,Delhi,Healthcare,1464000.0
+9,Bachelors,DevOps Engineer,Pune,Education,669000.0
+8,Bachelors,DevOps Engineer,Bangalore,IT,1219000.0
+3,Bachelors,Business Analyst,Kolkata,IT,650000.0
+8,Bachelors,Data Scientist,Kolkata,Finance,1118000.0
+18,Masters,Business Analyst,Bangalore,Healthcare,1296000.0
+4,Masters,DevOps Engineer,Chennai,Retail,766000.0
+7,High School,Software Engineer,Delhi,Manufacturing,697000.0
+14,Bachelors,Data Scientist,Mumbai,IT,1518000.0
+4,Masters,Software Engineer,Chennai,Finance,1044000.0
+23,PhD,Software Engineer,Delhi,Healthcare,1731000.0
+6,Bachelors,Software Engineer,Delhi,Retail,816000.0
+8,High School,Analyst,Bangalore,Retail,515000.0
+8,Masters,Manager,Bangalore,Healthcare,1506000.0
+8,Bachelors,Data Scientist,Pune,IT,1140000.0
+18,Masters,Business Analyst,Pune,Finance,1170000.0
+8,Bachelors,Data Scientist,Hyderabad,Education,919000.0
+25,Bachelors,Business Analyst,Kolkata,Education,669000.0
+15,Bachelors,Analyst,Hyderabad,Finance,853000.0
+0,Bachelors,Software Engineer,Pune,Education,500000.0
+19,Masters,Software Engineer,Delhi,Education,1130000.0
+6,Masters,DevOps Engineer,Kolkata,IT,1166000.0
+12,Bachelors,Software Engineer,Kolkata,Retail,715000.0
+12,Masters,Manager,Delhi,Healthcare,1706000.0
+16,Masters,Data Scientist,Chennai,Retail,1390000.0
+16,Masters,Software Engineer,Delhi,Retail,1062000.0
+0,Bachelors,DevOps Engineer,Delhi,IT,905000.0
+11,Bachelors,Analyst,Delhi,Manufacturing,736000.0
+21,Bachelors,Data Scientist,Hyderabad,Finance,1562000.0
+0,Bachelors,Data Scientist,Chennai,Retail,640000.0
+11,PhD,DevOps Engineer,Chennai,Finance,1488000.0
+10,Bachelors,Manager,Kolkata,Retail,1001000.0
+17,Bachelors,Data Scientist,Delhi,Finance,1405000.0
+9,Bachelors,Business Analyst,Chennai,Manufacturing,697000.0
+13,Masters,Software Engineer,Mumbai,Retail,1080000.0
+10,Masters,Software Engineer,Mumbai,Finance,1566000.0
+23,PhD,Analyst,Pune,Finance,1303000.0
+14,Bachelors,Data Scientist,Delhi,IT,1454000.0
+12,Bachelors,Business Analyst,Pune,Retail,605000.0
+8,Bachelors,DevOps Engineer,Hyderabad,Finance,1044000.0
+4,Masters,Software Engineer,Delhi,Education,826000.0
+10,PhD,Manager,Chennai,IT,2063000.0
+15,Bachelors,Analyst,Chennai,IT,839000.0
+21,Bachelors,Data Scientist,Delhi,Finance,1445000.0
+24,Bachelors,Analyst,Kolkata,Healthcare,804000.0
+18,Bachelors,DevOps Engineer,Chennai,Education,855000.0
+4,High School,Manager,Mumbai,Retail,845000.0
+7,Masters,Manager,Hyderabad,Manufacturing,1412000.0
+11,Masters,Analyst,Chennai,Education,760000.0
+12,Masters,Manager,Kolkata,IT,1892000.0
+12,Masters,Data Scientist,Hyderabad,Finance,1737000.0
+18,High School,Software Engineer,Chennai,Retail,657000.0
+25,Masters,Data Scientist,Delhi,Manufacturing,1929000.0
+0,Bachelors,Manager,Pune,IT,1006000.0
+16,Masters,DevOps Engineer,Chennai,Manufacturing,1223000.0
+7,High School,Business Analyst,Kolkata,Education,446000.0
+15,Masters,Analyst,Chennai,IT,1028000.0
+18,Bachelors,DevOps Engineer,Mumbai,Education,1082000.0
+14,Masters,Manager,Hyderabad,Manufacturing,1608000.0
+9,Masters,DevOps Engineer,Hyderabad,IT,1340000.0
+21,Bachelors,Business Analyst,Pune,Manufacturing,912000.0
+24,Masters,DevOps Engineer,Kolkata,IT,1594000.0
+7,Bachelors,Software Engineer,Delhi,IT,987000.0
+24,Masters,DevOps Engineer,Chennai,Education,1009000.0
+14,Bachelors,Analyst,Hyderabad,Manufacturing,732000.0
+8,Bachelors,Data Scientist,Bangalore,IT,1479000.0
+24,Bachelors,Software Engineer,Chennai,Healthcare,1017000.0
+2,Masters,Manager,Hyderabad,Education,899000.0
+4,Bachelors,Data Scientist,Bangalore,Finance,1281000.0
+20,High School,Business Analyst,Kolkata,Healthcare,570000.0
+18,Masters,Software Engineer,Hyderabad,Education,1084000.0
+12,High School,Manager,Hyderabad,Education,1036000.0
+0,High School,Analyst,Bangalore,Finance,527000.0
+12,Bachelors,Manager,Hyderabad,Finance,1570000.0
+11,Bachelors,Manager,Bangalore,Education,1273000.0
+8,Bachelors,DevOps Engineer,Pune,IT,1299000.0
+2,Masters,Software Engineer,Hyderabad,IT,967000.0
+4,Bachelors,Analyst,Mumbai,IT,700000.0
+21,Bachelors,Software Engineer,Delhi,Manufacturing,941000.0
+24,PhD,Data Scientist,Pune,Education,1708000.0
+15,Masters,Analyst,Delhi,Finance,1139000.0
+16,High School,Manager,Hyderabad,Retail,1043000.0
+9,Masters,Manager,Pune,IT,2074000.0
+22,Bachelors,Manager,Pune,Retail,1475000.0
+1,Masters,Business Analyst,Mumbai,Healthcare,764000.0
+0,Bachelors,Manager,Delhi,Retail,855000.0
+17,Masters,Software Engineer,Hyderabad,Education,910000.0
+6,High School,Data Scientist,Delhi,Retail,786000.0
+6,Masters,Business Analyst,Pune,Healthcare,730000.0
+19,Masters,Manager,Kolkata,IT,1903000.0
+6,Masters,Manager,Pune,Retail,1253000.0
+23,Masters,Data Scientist,Hyderabad,IT,1849000.0
+15,High School,Software Engineer,Hyderabad,Finance,987000.0
+25,Masters,DevOps Engineer,Pune,Manufacturing,1460000.0
+9,PhD,Business Analyst,Bangalore,IT,1328000.0
+19,High School,Software Engineer,Mumbai,Manufacturing,925000.0
+12,High School,Manager,Mumbai,IT,1443000.0
+1,Bachelors,DevOps Engineer,Mumbai,Healthcare,766000.0
